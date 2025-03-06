@@ -1,0 +1,672 @@
+﻿id,age,region,degree,weekly_hours,gender,pay_rate
+1,53,northern ireland,no,37,male,10.1899941
+2,56,northern ireland,yes,40,male,15.57812139
+3,39,northern ireland,yes,32,female,15.86660512
+4,54,northern ireland,yes,30,female,10.92391722
+5,55,northern ireland,no,42,male,10.57224182
+6,63,northern ireland,yes,37,male,10.728476
+7,61,northern ireland,yes,35,male,10.022749
+8,56,northern ireland,yes,37,male,20.98914054
+9,44,northern ireland,no,28,female,13.18782764
+10,56,northern ireland,no,37,female,12.47497209
+11,48,northern ireland,yes,37,female,19.33620674
+12,63,northern ireland,yes,15,female,15.35502731
+13,56,northern ireland,yes,37,male,25.02479401
+14,51,northern ireland,yes,5,female,39.09115962
+15,35,northern ireland,yes,21,female,22.62811425
+16,36,northern ireland,yes,39,male,11.72279524
+17,53,northern ireland,no,16,female,10.00072146
+18,52,northern ireland,yes,35,male,35.60713461
+19,44,northern ireland,yes,40,female,24.80960074
+20,35,northern ireland,no,38,male,11.53934918
+21,34,northern ireland,yes,40,female,13.84144934
+22,45,northern ireland,yes,37,male,28.39927396
+23,44,northern ireland,yes,35,female,24.69420725
+24,50,northern ireland,yes,35,female,13.18782764
+25,49,northern ireland,yes,37,female,13.82226907
+26,46,northern ireland,yes,37,female,15.59371511
+27,58,northern ireland,yes,40,male,20.19386107
+28,33,northern ireland,yes,37,male,16.0428141
+29,48,northern ireland,yes,43,male,16.10141746
+30,51,northern ireland,yes,40,female,31.15624279
+31,37,northern ireland,yes,42,male,14.45166112
+32,33,northern ireland,yes,36,male,10.00076929
+33,55,northern ireland,yes,37,female,10.24033028
+34,36,northern ireland,yes,40,male,25.96353566
+35,35,northern ireland,yes,40,male,16.73205631
+36,61,northern ireland,yes,12,female,13.63566428
+37,60,northern ireland,yes,40,male,20.77082853
+38,29,northern ireland,yes,39,female,10.88249392
+39,59,northern ireland,yes,45,male,18.15011411
+40,27,northern ireland,yes,37,male,15.38164058
+41,54,northern ireland,yes,20,female,15.00115393
+42,47,northern ireland,no,37,male,11.96349823
+43,50,northern ireland,no,36,female,15.21911942
+44,48,northern ireland,yes,37,male,15.59371511
+45,53,northern ireland,yes,37,female,28.0686872
+46,56,northern ireland,yes,35,male,16.13530711
+47,51,northern ireland,no,20,female,13.84721902
+48,56,northern ireland,yes,37,male,17.84544757
+49,58,northern ireland,yes,22,female,17.05473858
+50,41,northern ireland,yes,38,female,13.96868585
+51,49,northern ireland,yes,40,female,31.15624279
+52,52,northern ireland,yes,40,male,31.15624279
+53,55,northern ireland,yes,55,female,14.81232822
+54,37,wales,yes,37,male,15.59371511
+55,34,wales,yes,16,female,17.30902377
+56,65,wales,no,22,female,13.43211772
+57,30,wales,no,36,male,14.103649
+58,43,wales,no,32,male,18.26102008
+59,44,wales,yes,33,female,19.23224863
+60,45,wales,yes,37,male,15.40035304
+61,60,wales,yes,18,female,26.92514809
+62,60,wales,yes,37,female,16.01162667
+63,59,wales,yes,22,female,15.73547616
+64,48,wales,yes,21,female,14.87323185
+65,39,scotland,yes,21,female,16.48478454
+66,34,scotland,no,36,male,13.46257404
+67,62,scotland,no,24,male,11.6258943
+68,61,scotland,no,17,female,10.86056393
+69,57,scotland,no,40,male,11.98107581
+70,59,scotland,yes,37,female,13.09872069
+71,55,scotland,yes,40,female,20.00155736
+72,48,scotland,yes,30,female,12.15924268
+73,53,scotland,yes,37,male,11.85122348
+74,57,northern ireland,yes,45,male,13.84721902
+75,46,northern ireland,yes,14,female,11.60809045
+76,54,northern ireland,yes,37,female,14.3462179
+77,40,northern ireland,yes,40,male,11.78011759
+78,40,northern ireland,yes,35,female,11.86904487
+79,51,northern ireland,yes,37,male,11.22747488
+80,25,northern ireland,no,12,female,11.53992671
+81,41,northern ireland,yes,39,male,15.38579891
+82,32,northern ireland,yes,25,female,11.93510266
+83,37,northern ireland,yes,37,male,21.32683736
+84,52,england,no,37,male,19.69798093
+85,52,england,no,28,male,14.83630609
+86,61,england,yes,30,female,10.25963554
+87,50,england,yes,45,male,10.03154089
+88,50,england,yes,40,female,11.53934918
+89,50,england,yes,40,female,16.73205631
+90,58,england,yes,24,female,12.79906147
+91,46,england,yes,37,female,13.7224693
+92,58,northern ireland,yes,22,female,13.23878061
+93,63,northern ireland,yes,37,male,18.41031467
+94,52,northern ireland,yes,37,female,15.59371511
+95,39,northern ireland,no,37,male,11.63914896
+96,54,northern ireland,yes,40,male,18.46295869
+97,52,northern ireland,yes,30,female,13.95491961
+98,50,northern ireland,yes,37,male,13.09872069
+99,50,northern ireland,yes,40,male,25.00190444
+100,47,northern ireland,yes,30,female,21.46318948
+101,48,northern ireland,yes,20,male,32.27417358
+102,34,northern ireland,no,30,female,12.84714209
+103,43,northern ireland,yes,37,male,11.85122348
+104,32,northern ireland,yes,40,female,11.53934918
+105,40,northern ireland,no,35,male,10.28650556
+106,36,northern ireland,no,29,female,10.2899162
+107,60,northern ireland,no,20,female,10.32771752
+108,46,northern ireland,no,37,female,15.59371511
+109,26,northern ireland,yes,2,male,57.6967459
+110,50,northern ireland,yes,39,female,11.71687763
+111,34,northern ireland,yes,40,male,13.12600969
+112,38,northern ireland,yes,37,female,12.56853438
+113,60,northern ireland,no,40,male,15.62618323
+114,59,northern ireland,yes,38,female,10.36871257
+115,63,northern ireland,yes,37,male,25.57369278
+116,31,northern ireland,yes,35,male,15.82539316
+117,44,northern ireland,yes,50,male,12.46249712
+118,61,northern ireland,no,40,male,10.10079647
+119,49,northern ireland,yes,32,female,18.03023309
+120,55,northern ireland,yes,30,female,26.92514809
+121,60,northern ireland,no,36,male,10.27854679
+122,47,northern ireland,yes,37,female,11.40836197
+123,48,northern ireland,no,37,male,14.03396898
+124,41,northern ireland,no,37,male,14.6580922
+125,63,northern ireland,yes,40,male,23.65566582
+126,45,northern ireland,yes,6,female,19.23224863
+127,50,northern ireland,yes,37,male,14.0343436
+128,63,northern ireland,yes,20,female,15.84352643
+129,64,northern ireland,yes,21,male,10.44036354
+130,56,northern ireland,yes,37,female,17.82049763
+131,48,northern ireland,no,40,male,15.86660512
+132,45,northern ireland,no,16,female,10.8380453
+133,51,northern ireland,yes,9,female,76.54896355
+134,43,northern ireland,yes,19,female,14.57602002
+135,54,northern ireland,no,40,male,12.6932841
+136,42,northern ireland,yes,21,female,10.98985636
+137,57,northern ireland,yes,27,female,11.11196588
+138,37,northern ireland,yes,25,female,10.77009041
+139,35,northern ireland,no,37,male,10.32927689
+140,34,northern ireland,yes,28,female,14.83630609
+141,51,northern ireland,yes,36,female,16.36664359
+142,48,northern ireland,no,15,female,15.80121548
+143,46,northern ireland,yes,8,female,11.97207477
+144,47,northern ireland,yes,37,male,17.22793645
+145,40,northern ireland,yes,30,female,10.77005924
+146,45,northern ireland,yes,37,male,12.26957134
+147,39,northern ireland,no,40,male,31.15624279
+148,28,northern ireland,yes,35,male,12.06686229
+149,53,northern ireland,yes,35,male,27.14496668
+150,49,northern ireland,yes,48,female,11.53934918
+151,44,northern ireland,yes,18,female,10.89827423
+152,41,northern ireland,yes,35,male,15.16600178
+153,43,northern ireland,yes,25,female,16.61666282
+154,55,northern ireland,yes,37,male,33.68242464
+155,47,northern ireland,yes,40,male,31.15624279
+156,45,northern ireland,yes,40,female,16.55896607
+157,50,northern ireland,yes,20,female,26.92511053
+158,53,northern ireland,yes,37,female,14.3462179
+159,53,northern ireland,yes,33,female,12.51669709
+160,33,northern ireland,yes,37,male,13.7224693
+161,55,northern ireland,yes,37,female,11.22747488
+162,35,northern ireland,yes,37,female,10.60372627
+163,53,northern ireland,yes,16,male,10.68226427
+164,52,northern ireland,yes,37,male,10.61620125
+165,33,northern ireland,yes,40,male,15.40503116
+166,50,northern ireland,yes,34,female,20.33640597
+167,58,northern ireland,no,37,male,18.71245813
+168,63,northern ireland,no,40,male,12.50098039
+169,29,northern ireland,yes,35,male,13.73729899
+170,56,northern ireland,no,35,female,11.20965349
+171,57,northern ireland,yes,40,male,12.60673898
+172,45,northern ireland,no,37,female,21.83120115
+173,51,northern ireland,yes,39,male,13.89852428
+174,44,northern ireland,yes,40,male,10.96238172
+175,53,northern ireland,no,37,female,17.46496092
+176,52,northern ireland,yes,37,male,21.31348981
+177,56,northern ireland,no,35,male,22.11414046
+178,58,northern ireland,yes,37,female,12.16309779
+179,36,northern ireland,yes,18,female,12.82149909
+180,42,northern ireland,yes,36,male,15.66146114
+181,59,northern ireland,yes,37,female,17.83921008
+182,59,northern ireland,yes,15,female,12.50096161
+183,34,northern ireland,yes,24,female,19.04954227
+184,58,northern ireland,yes,35,female,11.50637961
+185,66,northern ireland,yes,35,female,35.60713461
+186,44,northern ireland,yes,40,female,18.50911609
+187,44,northern ireland,yes,40,male,27.30786984
+188,39,northern ireland,yes,37,male,16.72893757
+189,39,northern ireland,yes,24,female,12.58750673
+190,52,northern ireland,yes,40,male,24.76921302
+191,43,northern ireland,yes,37,male,20.558754
+192,37,northern ireland,yes,28,female,13.18782764
+193,39,northern ireland,yes,37,male,35.085859
+194,40,wales,no,42,male,11.53934918
+195,53,wales,yes,37,female,10.60372627
+196,55,wales,yes,37,male,13.75677547
+197,64,wales,yes,1,female,34.61804754
+198,55,scotland,no,16,female,11.70407314
+199,60,scotland,no,14,female,20.36843437
+200,45,scotland,yes,45,male,12.54978598
+201,45,scotland,yes,35,female,18.6607761
+202,57,scotland,no,37,female,12.75565896
+203,53,scotland,yes,37,female,11.53934918
+204,55,scotland,no,40,male,11.58550658
+205,58,scotland,yes,35,female,18.46295869
+206,60,scotland,no,30,female,10.34694977
+207,34,scotland,yes,30,male,15.38579891
+208,44,scotland,yes,37,male,23.25958546
+209,44,scotland,yes,28,female,17.72114338
+210,57,northern ireland,yes,25,female,14.28442174
+211,48,northern ireland,no,37,female,14.9699665
+212,50,northern ireland,no,18,female,10.41746801
+213,57,northern ireland,no,10,female,22.20909318
+214,38,northern ireland,yes,35,male,27.03504665
+215,42,northern ireland,yes,39,female,19.0210493
+216,37,northern ireland,yes,40,female,15.57812139
+217,39,england,yes,40,female,14.09173715
+218,42,england,no,37,male,10.53511393
+219,39,england,no,50,male,10.96584353
+220,44,england,yes,37,female,10.5039265
+221,48,england,yes,37,male,12.47497209
+222,37,england,yes,40,female,12.08169859
+223,62,england,no,18,female,10.23129959
+224,47,england,yes,37.5,female,14.91807062
+225,45,england,yes,37.5,male,14.13444063
+226,35,northern ireland,yes,10,female,45.71890145
+227,63,northern ireland,no,22,female,10.49031744
+228,31,northern ireland,yes,33,female,13.53950304
+229,48,northern ireland,yes,37.5,female,16.30894684
+230,39,northern ireland,yes,35,male,15.71547313
+231,49,northern ireland,yes,50,female,13.84721902
+232,31,northern ireland,no,30,male,14.27609816
+233,53,northern ireland,yes,35,female,16.24080973
+234,57,northern ireland,yes,35,male,12.65372062
+235,46,northern ireland,yes,36,female,12.0329769
+236,35,northern ireland,yes,48,male,25.48272944
+237,59,northern ireland,no,35,female,10.8799578
+238,45,northern ireland,yes,20,female,27.69443803
+239,46,northern ireland,yes,37.5,male,20.70928533
+240,55,northern ireland,no,27,female,10.25719927
+241,35,northern ireland,yes,30,female,11.42395569
+242,51,northern ireland,yes,37,male,22.97185096
+243,58,northern ireland,no,37,female,14.4050994
+244,61,northern ireland,yes,7,male,29.67261218
+245,60,northern ireland,yes,37.5,male,12.80098469
+246,56,northern ireland,no,19,female,10.32468085
+247,47,northern ireland,no,37.5,female,11.323948
+248,41,northern ireland,yes,37,male,18.00138472
+249,40,northern ireland,no,20,female,10.73159474
+250,48,northern ireland,no,40,male,11.55088853
+251,41,northern ireland,no,40,male,13.27025156
+252,35,northern ireland,yes,19,female,22.07854087
+253,49,northern ireland,no,36,male,21.1554735
+254,54,northern ireland,no,38,female,14.02741459
+255,51,northern ireland,no,40,female,11.07587147
+256,58,northern ireland,yes,30,male,10.00076929
+257,57,northern ireland,yes,22.5,female,15.38579891
+258,51,northern ireland,no,44.5,male,10.63175992
+259,51,northern ireland,no,20,female,14.42418648
+260,36,northern ireland,no,37.5,female,13.2133241
+261,56,northern ireland,yes,20,female,18.18255194
+262,58,northern ireland,yes,36,male,15.87301587
+263,60,scotland,yes,16,female,12.77853065
+264,45,northern ireland,no,10,female,11.20078437
+265,40,northern ireland,yes,26,female,18.64048714
+266,61,northern ireland,yes,37,male,16.37340086
+267,58,northern ireland,yes,30,male,15.63966459
+268,58,northern ireland,yes,12,female,17.30902377
+269,60,northern ireland,no,40,male,10.38541426
+270,46,northern ireland,no,21,female,10.06670843
+271,59,northern ireland,yes,32.5,female,12.51930622
+272,48,northern ireland,yes,36,male,10.70595174
+273,50,northern ireland,yes,37.5,female,11.73013309
+274,52,northern ireland,no,20,female,15.02492567
+275,50,northern ireland,no,30,female,12.6932841
+276,42,northern ireland,yes,20,female,13.16108977
+277,47,northern ireland,no,25.5,female,15.34190435
+278,48,northern ireland,yes,39,male,14.79403741
+279,29,northern ireland,yes,42.5,male,10.43157166
+280,55,northern ireland,yes,40,male,13.84721902
+281,46,northern ireland,yes,35,female,13.99887903
+282,49,northern ireland,yes,35,male,23.88974976
+283,40,northern ireland,yes,37,female,18.08870953
+284,40,northern ireland,no,28,female,14.08072563
+285,49,northern ireland,no,37,male,11.63914896
+286,55,wales,no,22,female,41.96126975
+287,25,northern ireland,yes,36.5,female,10.7489828
+288,60,northern ireland,no,35,female,14.24285385
+289,48,northern ireland,yes,35,male,29.67261218
+290,50,northern ireland,no,34,male,13.91285702
+291,53,northern ireland,no,34,female,13.05982813
+292,48,northern ireland,yes,44,female,20.98063487
+293,62,northern ireland,no,36,male,15.97347182
+294,51,northern ireland,yes,50,male,13.38564505
+295,54,northern ireland,yes,30,female,12.30863913
+296,61,northern ireland,no,33,female,11.18967193
+297,46,northern ireland,yes,37.5,female,16.388953
+298,64,northern ireland,no,42.5,male,16.8936072
+299,52,northern ireland,no,28,female,13.12600969
+300,50,northern ireland,yes,35,female,28.63736771
+301,47,northern ireland,yes,35,male,16.48478454
+302,38,northern ireland,yes,20,female,10.15462728
+303,43,northern ireland,yes,50,male,19.23226366
+304,40,northern ireland,yes,37,male,18.71245813
+305,35,northern ireland,no,40,male,11.25086545
+306,45,northern ireland,yes,37,male,11.43537001
+307,58,northern ireland,no,36,male,10.90359487
+308,54,northern ireland,no,37.5,female,11.45823492
+309,56,northern ireland,yes,37.5,male,39.55996615
+310,61,northern ireland,yes,37.5,male,22.59866144
+311,53,northern ireland,no,30,female,11.53934918
+312,44,northern ireland,no,40,male,19.24763443
+313,44,northern ireland,yes,45,male,16.41151883
+314,62,northern ireland,yes,24,male,13.3279483
+315,63,northern ireland,no,35.5,female,10.40166687
+316,48,northern ireland,yes,40,female,14.90497391
+317,29,northern ireland,yes,31,female,11.68079927
+318,64,northern ireland,yes,37,male,14.3462179
+319,64,northern ireland,yes,40,male,28.84837295
+320,52,northern ireland,yes,30,male,41.54165705
+321,49,northern ireland,yes,6,female,30.00230787
+322,55,northern ireland,yes,25,female,14.47495961
+323,54,northern ireland,yes,35,male,18.96409614
+324,61,wales,yes,36,female,14.103649
+325,38,wales,yes,40,male,10.65658897
+326,58,northern ireland,yes,6,female,15.38579891
+327,35,wales,yes,22,female,14.26683171
+328,36,wales,yes,35,male,17.14417593
+329,38,wales,yes,30,female,17.47826756
+330,54,scotland,no,37,male,10.60372627
+331,53,scotland,yes,30,female,18.07831372
+332,50,scotland,yes,36,female,11.85988666
+333,40,scotland,yes,35,female,16.48478454
+334,57,scotland,no,40,male,10.62583686
+335,51,scotland,yes,35,female,12.50093934
+336,33,scotland,yes,36,female,11.11194423
+337,61,scotland,yes,7,female,39.56348291
+338,54,scotland,no,35,male,10.28650556
+339,46,scotland,no,43,male,12.97060376
+340,39,northern ireland,yes,35,female,17.80356731
+341,31,northern ireland,yes,41,male,15.7610623
+342,41,northern ireland,no,30,female,12.98430615
+343,60,northern ireland,yes,19,male,24.84895587
+344,51,northern ireland,yes,35,female,19.45204576
+345,25,northern ireland,yes,24,female,19.00117289
+346,38,northern ireland,yes,40,male,20.19386107
+347,52,northern ireland,yes,37.5,female,11.5147319
+348,47,northern ireland,yes,35,female,14.37255562
+349,50,northern ireland,yes,55,female,13.84721902
+350,29,northern ireland,yes,40,male,10.1488576
+351,44,england,yes,37,male,13.78484416
+352,38,england,yes,30,female,15.00115393
+353,47,england,no,40,male,11.53934918
+354,56,england,yes,37,male,10.60372627
+355,28,northern ireland,yes,40,male,15.15693515
+356,46,england,yes,37.5,male,10.58542965
+357,50,northern ireland,yes,35,female,10.99864825
+358,66,northern ireland,yes,35,female,12.13939534
+359,66,northern ireland,no,41,male,10.34223996
+360,49,northern ireland,yes,37,male,13.58817604
+361,41,northern ireland,yes,37.5,female,18.46295869
+362,35,northern ireland,no,37.5,male,17.01053927
+363,65,northern ireland,yes,40,male,10.38541426
+364,34,northern ireland,yes,22,female,13.1128968
+365,55,northern ireland,yes,37,male,11.85122348
+366,49,northern ireland,yes,20,female,12.40480037
+367,38,northern ireland,yes,28,female,12.56140582
+368,35,northern ireland,yes,35,male,18.133263
+369,44,northern ireland,yes,20,female,13.09716132
+370,60,northern ireland,yes,15,female,38.46449727
+371,58,northern ireland,no,10,female,17.8497575
+372,39,northern ireland,no,35,male,14.5066104
+373,41,northern ireland,yes,37.5,female,10.33414905
+374,48,northern ireland,yes,40,female,20.86314332
+375,46,northern ireland,no,35,female,25.05687251
+376,50,northern ireland,no,40,male,15.87624003
+377,53,northern ireland,no,16,female,12.73655666
+378,39,northern ireland,no,37,female,14.9699665
+379,42,northern ireland,yes,37,female,17.36516115
+380,53,northern ireland,yes,30,male,18.33471866
+381,29,northern ireland,no,37,female,14.8659881
+382,35,northern ireland,yes,37,male,16.21746371
+383,52,northern ireland,no,37.5,male,11.62754031
+384,46,northern ireland,yes,37.5,male,19.6938226
+385,47,northern ireland,yes,37.5,female,15.48426802
+386,44,northern ireland,yes,40,male,18.46295869
+387,49,northern ireland,no,42,male,14.57804446
+388,46,northern ireland,no,39,female,13.46257404
+389,48,northern ireland,yes,43,male,12.34442005
+390,28,northern ireland,no,40,male,11.53934918
+391,53,northern ireland,yes,37.5,female,12.30863913
+392,49,northern ireland,no,38,male,11.53934918
+393,56,northern ireland,yes,40,female,11.43434138
+394,55,northern ireland,no,42,female,11.8878371
+395,55,northern ireland,yes,38,male,15.79068835
+396,48,northern ireland,yes,37,female,21.83120115
+397,36,northern ireland,yes,38,female,17.49729736
+398,49,northern ireland,yes,33,female,13.98708992
+399,54,northern ireland,no,37.5,male,11.07777521
+400,41,northern ireland,yes,37,female,14.3462179
+401,42,northern ireland,yes,42.5,male,10.977315
+402,52,northern ireland,yes,37.5,male,17.84752673
+403,47,northern ireland,no,37.5,female,15.2257866
+404,59,northern ireland,yes,37,female,12.06036657
+405,51,northern ireland,no,37,male,13.7224693
+406,53,northern ireland,yes,37,male,20.79159984
+407,44,northern ireland,yes,39,female,16.22018262
+408,63,northern ireland,no,40,male,10.0007498
+409,55,northern ireland,yes,27,female,13.74464702
+410,52,northern ireland,yes,37,male,15.59371511
+411,46,northern ireland,no,37,male,12.13191035
+412,46,northern ireland,no,34,female,13.663947
+413,45,northern ireland,yes,40,male,16.75126978
+414,52,northern ireland,no,45,male,16.41151883
+415,48,northern ireland,no,23,female,13.58632938
+416,33,northern ireland,no,25,female,19.28151324
+417,37,northern ireland,no,44,male,12.58838092
+418,34,northern ireland,yes,40,male,15.00115393
+419,50,northern ireland,no,24,female,10.57773675
+420,47,northern ireland,yes,21,female,10.98985636
+421,57,northern ireland,yes,16,female,28.84837295
+422,41,northern ireland,yes,45,female,16.41151883
+423,28,northern ireland,yes,40,female,10.43203298
+424,41,northern ireland,yes,22,female,12.58838092
+425,44,northern ireland,no,37.5,male,18.46295869
+426,44,northern ireland,yes,35,male,12.52843625
+427,65,northern ireland,yes,4,male,11.25086545
+428,59,northern ireland,no,40,male,10.38541426
+429,59,northern ireland,yes,37,female,12.47497209
+430,55,northern ireland,yes,30,female,16.9243788
+431,36,northern ireland,yes,25,female,13.82875606
+432,36,northern ireland,no,37,male,18.08870953
+433,56,northern ireland,yes,37.5,male,33.23332564
+434,50,northern ireland,yes,40,male,19.23222985
+435,60,northern ireland,yes,26,female,19.98082693
+436,46,northern ireland,yes,15,female,10.61620125
+437,46,northern ireland,yes,22,female,10.49031744
+438,47,northern ireland,yes,35,male,15.15281395
+439,57,northern ireland,yes,14,female,11.42939595
+440,38,northern ireland,no,42,male,10.07401644
+441,60,northern ireland,yes,35,female,15.82539316
+442,51,northern ireland,yes,37.5,male,21.97707516
+443,54,northern ireland,yes,21,female,14.26483356
+444,44,northern ireland,yes,40,female,15.5088853
+445,31,northern ireland,yes,37.5,male,16.00123086
+446,36,northern ireland,yes,36,female,20.51439854
+447,30,northern ireland,yes,37.5,female,15.66889761
+448,56,northern ireland,yes,15,female,11.07085142
+449,49,northern ireland,yes,40,female,31.15624279
+450,40,northern ireland,yes,37,female,21.62330526
+451,29,northern ireland,yes,35,female,14.5066104
+452,46,northern ireland,yes,22.5,female,21.76577685
+453,47,northern ireland,yes,37.5,male,29.5407339
+454,57,northern ireland,no,36,male,20.34130831
+455,26,northern ireland,yes,37.5,female,13.47795984
+456,38,northern ireland,no,40,male,23.9787676
+457,61,northern ireland,no,6.5,female,27.19735838
+458,58,northern ireland,yes,36,male,22.43762341
+459,46,northern ireland,yes,48,male,34.0891607
+460,33,northern ireland,yes,35,female,13.21532455
+461,38,northern ireland,yes,50,male,23.91899287
+462,54,northern ireland,yes,35,male,14.28683474
+463,41,northern ireland,yes,37.5,female,11.69320717
+464,50,northern ireland,no,42,male,20.88072709
+465,48,northern ireland,yes,44,female,15.20760395
+466,43,northern ireland,no,22,female,20.09241924
+467,38,northern ireland,yes,37,male,12.00716063
+468,33,northern ireland,yes,37.5,female,18.07523656
+469,55,northern ireland,no,40,female,10.52388645
+470,53,northern ireland,yes,37.5,male,16.05661974
+471,57,northern ireland,yes,17.20000076,female,18.78498621
+472,33,northern ireland,yes,35,female,16.48478454
+473,31,northern ireland,yes,16.5,female,15.38579891
+474,28,northern ireland,yes,35,male,14.34176255
+475,43,northern ireland,yes,10,female,11.07777521
+476,49,northern ireland,yes,28,female,11.53934918
+477,44,northern ireland,no,35,male,29.36052172
+478,48,northern ireland,yes,40,male,17.71290099
+479,41,northern ireland,yes,21,female,20.33123427
+480,51,northern ireland,yes,20,female,10.00080756
+481,53,northern ireland,yes,35,male,35.60713461
+482,45,northern ireland,yes,22.5,female,20.09385337
+483,51,northern ireland,yes,37,female,11.01433971
+484,46,northern ireland,yes,38,female,11.69191149
+485,38,scotland,no,37.5,male,12.00092315
+486,46,wales,no,39,male,13.46257404
+487,43,wales,yes,50,female,14.13339488
+488,63,scotland,yes,14,female,25.95282014
+489,48,scotland,yes,40,female,13.75103899
+490,51,scotland,yes,35,male,11.68441528
+491,47,scotland,yes,28,female,10.71510995
+492,40,scotland,yes,40,female,13.84721902
+493,56,northern ireland,yes,36,female,15.38579891
+494,61,scotland,no,38,male,10.62834793
+495,42,northern ireland,yes,40,male,20.19386107
+496,42,wales,no,30,female,13.39333795
+497,45,northern ireland,yes,23,female,12.04106001
+498,52,northern ireland,yes,37.5,male,24.52496346
+499,39,northern ireland,no,24,female,13.04513776
+500,44,northern ireland,yes,35,female,13.18782764
+501,43,northern ireland,no,36,male,12.61039276
+502,29,northern ireland,yes,37.5,male,14.87295898
+503,44,northern ireland,yes,37.5,male,16.73974921
+504,41,northern ireland,yes,37,male,12.47497209
+505,61,northern ireland,yes,36,female,14.66779496
+506,54,northern ireland,yes,37,female,25.33305008
+507,55,northern ireland,no,10,female,10.55088884
+508,32,northern ireland,no,4,female,17.30902377
+509,52,northern ireland,yes,37,male,14.9699665
+510,41,northern ireland,yes,35,female,14.60921208
+511,62,northern ireland,no,36,male,10.68460423
+512,56,england,yes,25,female,11.0876524
+513,28,england,yes,37.5,male,11.35859685
+514,59,england,no,30,female,10.85606626
+515,57,england,yes,18,female,16.66794882
+516,36,scotland,no,5,male,10.00092306
+517,55,northern ireland,yes,60,female,10.00076929
+518,49,england,no,37.5,female,11.69936149
+519,47,northern ireland,yes,40,male,12.11631664
+520,37,scotland,yes,22.5,female,15.38579891
+521,39,scotland,no,36,male,20.93109726
+522,39,northern ireland,no,40,male,13.27025156
+523,42,northern ireland,no,39,female,10.64442839
+524,43,northern ireland,yes,45,male,27.69443803
+525,34,northern ireland,yes,42.5,female,19.78251721
+526,52,northern ireland,yes,36,female,17.95009873
+527,51,northern ireland,yes,37.5,female,15.38579891
+528,51,northern ireland,no,36,male,12.52660461
+529,47,northern ireland,no,39,male,13.01875292
+530,58,northern ireland,no,26,female,11.02451668
+531,31,england,yes,38,male,16.13972312
+532,56,england,no,37.5,male,11.98233698
+533,46,england,yes,37.5,female,13.07792907
+534,43,england,yes,37,female,11.43537001
+535,48,england,no,32,female,11.41912327
+536,54,england,yes,37.5,female,14.05031156
+537,57,england,yes,65,male,10.35583775
+538,53,england,yes,37,female,11.22747488
+539,46,england,yes,37.5,male,13.59489191
+540,48,england,yes,32,female,28.52382876
+541,29,england,no,40,female,11.9432264
+542,46,england,no,20,female,12.6932841
+543,44,england,yes,26,female,13.31463367
+544,48,england,no,30,female,10.26771253
+545,40,england,yes,40,male,15.00115393
+546,40,england,yes,35,female,17.14417593
+547,45,england,yes,15,female,12.30863913
+548,50,england,yes,37.5,male,20.92468651
+549,56,england,no,42,male,12.38188695
+550,40,england,yes,20,male,14.04038761
+551,40,england,no,55,male,20.98063487
+552,49,england,yes,37.5,male,16.00123086
+553,34,england,yes,33,female,18.25713914
+554,52,england,yes,37.5,female,18.04803494
+555,48,england,yes,30,female,15.27040542
+556,45,england,yes,37,female,11.22747488
+557,47,england,no,40,male,20.19386107
+558,49,england,yes,37,male,19.82896813
+559,62,england,no,30,male,12.33171782
+560,31,england,no,40,male,11.87589475
+561,34,england,no,15,female,11.53934918
+562,49,england,no,37,female,10.74406971
+563,38,england,no,39.5,male,13.43822943
+564,32,england,yes,32,female,19.50871221
+565,44,england,yes,37,male,14.3462179
+566,57,england,no,38,male,10.23765013
+567,48,england,yes,40,male,12.02013662
+568,27,england,yes,37,female,10.60372627
+569,59,england,no,18,female,10.25719927
+570,58,england,yes,35,male,13.96610748
+571,46,england,yes,30,female,23.41718594
+572,51,england,yes,40,male,31.15624279
+573,62,england,yes,37,male,31.52425446
+574,57,england,no,48,male,14.58443956
+575,45,england,no,37.5,female,10.00076929
+576,38,england,no,19,female,12.14668335
+577,38,england,no,40,male,12.6932841
+578,55,england,yes,37,female,13.09872069
+579,53,england,yes,38,female,30.87079573
+580,37,england,yes,35,male,24.19966371
+581,36,england,no,23,female,10.65302726
+582,59,england,no,40,male,13.39568423
+583,55,england,no,37,female,10.81162141
+584,49,england,yes,37,female,13.41059499
+585,50,england,no,40,male,18.46295869
+586,54,england,no,35,male,10.8799578
+587,55,england,yes,30,female,10.18539888
+588,36,england,no,40,male,10.78929148
+589,31,england,yes,37,female,33.68242464
+590,46,england,yes,37,female,15.18827852
+591,55,england,yes,32,female,13.93693703
+592,66,england,yes,18,female,16.66794882
+593,37,england,no,45,female,14.67292356
+594,37,england,yes,21,female,19.78174145
+595,40,england,yes,37.5,male,31.07931379
+596,44,england,yes,37.5,female,24.61727825
+597,60,england,yes,30,female,10.00076929
+598,53,england,no,36,male,20.83493602
+599,46,england,yes,40,female,11.53934918
+600,35,england,yes,20,female,12.82021694
+601,36,england,no,37.5,male,11.13931841
+602,47,england,no,37,female,24.94994417
+603,54,england,yes,37,female,15.59371511
+604,33,england,no,45,male,10.68456588
+605,64,england,no,20,male,12.6932841
+606,49,england,yes,40,female,13.95107316
+607,51,england,yes,35,male,18.90475091
+608,49,england,no,21,female,10.98985636
+609,63,england,no,37,male,14.85107966
+610,54,england,yes,37,female,14.8659881
+611,45,england,no,37,male,16.13026378
+612,47,england,yes,27,female,10.25719927
+613,50,england,yes,28,female,14.3994593
+614,46,england,yes,30,female,14.0472344
+615,30,england,yes,50,female,15.69351489
+616,56,england,yes,35,female,13.97250338
+617,40,england,yes,7,female,77.84115262
+618,39,england,yes,50,male,15.07962151
+619,56,england,yes,21,female,17.85851659
+620,43,england,no,40,male,13.59335333
+621,41,england,yes,18,female,13.34718055
+622,54,england,yes,37,female,10.91560058
+623,37,england,yes,18,female,15.38579891
+624,57,england,no,40,female,11.54344542
+625,56,england,yes,35,female,15.16600178
+626,37,england,yes,35,female,12.4559032
+627,50,england,yes,35,male,18.69374567
+628,52,england,no,39.5,male,10.96676375
+629,36,england,yes,40,female,10.31617817
+630,57,england,yes,37.5,female,14.98576814
+631,46,england,yes,40,male,28.84837295
+632,52,england,yes,40,male,14.42418648
+633,39,england,yes,26,female,15.11654743
+634,38,england,yes,35,male,19.22125878
+635,38,england,yes,21,female,12.19874056
+636,45,england,yes,22,female,13.04995489
+637,42,england,yes,36,male,29.5791984
+638,57,england,no,35,female,21.43021991
+639,56,england,yes,35,male,29.67261218
+640,35,england,yes,40,female,11.25900089
+641,59,england,no,35,female,10.25353599
+642,35,england,yes,35,female,11.53934918
+643,35,england,yes,39,male,11.53934918
+644,66,wales,no,40,female,11.3316409
+645,48,wales,yes,37,female,11.22747488
+646,30,wales,no,16,female,14.85777837
+647,39,wales,yes,37,female,11.85122348
+648,41,scotland,yes,40,male,18.46295869
+649,38,scotland,no,37,female,17.77683522
+650,60,scotland,yes,6,female,46.81129318
+651,35,scotland,yes,37.5,male,18.2783291
+652,52,england,yes,35,female,13.20101546
+653,53,england,yes,43,male,10.5142256
+654,58,scotland,yes,38,male,11.6000826
+655,51,scotland,yes,35,male,16.61844331
+656,48,scotland,yes,35,male,15.30974942
+657,56,scotland,yes,37.5,male,12.22247865
+658,36,england,no,15,female,10.46234326
+659,53,england,yes,5,male,42.79621476
+660,65,england,no,37,male,14.3462179
+661,47,england,yes,35,female,21.7599156
+662,48,england,no,38,male,14.92220049
+663,31,england,yes,35,male,18.46295869
+664,56,england,no,36,male,10.89827423
+665,53,england,yes,6,female,69.23609508
+666,34,england,yes,36,male,12.82149909
+667,62,england,yes,40,male,18.46295869
+668,44,england,yes,35,male,29.67261218
+669,42,england,no,30,male,26.15585814
+670,40,england,no,6,female,46.15739672
+671,35,england,yes,30,male,11.89122233
