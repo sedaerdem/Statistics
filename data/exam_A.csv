@@ -1,481 +1,481 @@
-"ID","Age","Region_UK","Gender","Exercise_hours","BMI","Diet_quality","Smoker","Sleep_hours","Blood_pressure"
-"P0001",38,"Wales","Female",4,28,"Average","No",8.4,134
-"P0002",40,"England","Male",5.5,23.3,"Average","No",6.8,139
-"P0003",55,"England","Male",2.9,29.4,"Poor","No",5.9,155
-"P0004",57,"England","Male",7,23.9,"Good","Yes",8.5,151
-"P0005",65,"Scotland","Female",6.8,28.7,"Good","No",7.5,141
-"P0006",63,"Wales","Female",2.4,28.7,"Average","No",4.6,159
-"P0007",44,"England","Female",3.6,31.1,"Poor","Yes",5.9,148
-"P0008",54,"England","Female",4.3,26.1,"Poor","Yes",6.4,142
-"P0009",23,"England","Female",8.9,20.6,"Average","No",7.6,129
-"P0010",19,"England","Male",5.1,29.8,"Poor","No",7,134
-"P0011",41,"Northern Ireland","Female",2.8,29.1,"Poor","Yes",7.5,150
-"P0012",28,"England","Female",NA,31,"Poor","No",7,126
-"P0013",69,"Northern Ireland","Female",1.7,35.9,"Poor","No",7.1,167
-"P0014",52,"England","Male",4.4,33.9,"Poor","No",8.2,153
-"P0015",47,"England","Female",8.1,27.1,"Good","Yes",7.2,136
-"P0016",50,"England","Male",4.2,22.5,"Average","No",6.8,133
-"P0017",59,"England","Female",1.2,32,"Poor","No",7.6,154
-"P0018",21,"Scotland","Male",6.4,24.7,"Poor","Yes",8,135
-"P0019",65,"Wales","Female",3.6,29.7,"Good","No",8,148
-"P0020",46,"Wales","Female",3.2,27.2,"Good","Yes",7.4,139
-"P0021",75,"England","Male",1,31.1,"Poor","No",6.8,168
-"P0022",77,"Wales","Female",4.2,27.1,"Average","No",8.4,145
-"P0023",60,"Scotland","Male",7.9,23.7,"Good","No",7.5,143
-"P0024",78,"England","Female",1.4,28.4,"Good","No",6.3,158
-"P0025",51,"Scotland","Male",2.7,32,"Poor","Yes",7.4,155
-"P0026",41,"England","Female",3.8,24.9,"Poor","No",8.9,135
-"P0027",18,"England","Male",3.4,30.3,"Poor","No",6.6,134
-"P0028",26,"England","Male",4.2,31,"Poor","Yes",6,153
-"P0029",65,"Northern Ireland","Male",5.8,24.5,"Good","No",8.9,147
-"P0030",39,"England","Female",2.3,21.6,"Average","No",7.5,140
-"P0031",60,"England","Male",5.1,25.6,"Good","No",9.1,120
-"P0032",27,"England","Female",5.7,25.1,"Poor","Yes",6.6,125
-"P0033",21,"England","Female",6.3,28.7,"Poor","No",7.4,136
-"P0034",78,"Wales","Male",0.9,28.7,"Good","No",7,156
-"P0035",42,"Northern Ireland","Male",2.3,30.4,"Poor","Yes",5.4,131
-"P0036",22,"Scotland","Female",5.3,24.8,"Poor","Yes",6.6,143
-"P0037",67,"England","Male",5.7,32.5,"Average","No",7.5,154
-"P0038",67,"England","Female",4.6,23,"Good","No",9.6,140
-"P0039",55,"Scotland","Male",8,24.4,"Average","No",8.6,143
-"P0040",25,"England","Male",5.9,20.2,"Average","No",9.2,125
-"P0041",74,"England","Female",7,20.8,"Good","No",6.3,149
-"P0042",41,"Scotland","Male",7.2,28.5,"Average","No",7.9,140
-"P0043",59,"England","Female",2.8,26.3,"Poor","Yes",6.7,155
-"P0044",18,"England","Female",6.6,20.9,"Average","No",7.3,117
-"P0045",19,"Scotland","Female",7.6,21.1,"Average","No",5.9,126
-"P0046",25,"Scotland","Male",7.5,19.3,"Good","No",7.9,118
-"P0047",73,"England","Male",3.8,27.5,"Good","No",7.4,158
-"P0048",57,"Wales","Male",6.3,25.1,"Average","Yes",6.9,148
-"P0049",48,"Wales","Female",6,31.4,"Average","No",5.7,145
-"P0050",70,"England","Male",7.5,24.2,"Average","No",7.2,158
-"P0051",72,"Northern Ireland","Male",4.3,28.6,"Average","No",7.1,164
-"P0052",46,"Northern Ireland","Male",2.4,29,"Poor","Yes",8.2,152
-"P0053",26,"Wales","Male",7.1,25.4,"Poor","No",7.2,133
-"P0054",69,"England","Male",3.8,26.6,"Average","No",8.2,146
-"P0055",41,"Scotland","Female",3.6,30.5,"Poor","Yes",8.4,152
-"P0056",45,"England","Female",6.6,31,"Poor","No",7.4,149
-"P0057",37,"Northern Ireland","Male",NA,24,"Average","No",7,131
-"P0058",30,"England","Female",4.3,25.7,"Poor","Yes",7.7,133
-"P0059",36,"Scotland","Female",5.8,27.2,"Average","Yes",5.3,127
-"P0060",77,"England","Female",4.4,23.5,"Good","No",7.3,154
-"P0061",70,"England","Male",2.7,26.6,"Average","Yes",6.4,169
-"P0062",58,"Northern Ireland","Female",1.8,25.9,"Good","No",8.2,143
-"P0063",55,"Wales","Male",3.5,29.6,"Average","No",5.5,159
-"P0064",26,"Wales","Male",9.2,18.3,"Average","No",6.8,123
-"P0065",36,"England","Male",5.2,22,"Poor","Yes",9,130
-"P0066",43,"England","Male",0.6,29,"Average","No",7.2,144
-"P0067",75,"Scotland","Female",2.9,30.3,"Average","No",7,156
-"P0068",71,"England","Female",4.6,29.2,"Good","No",6.7,135
-"P0069",76,"Wales","Male",3.9,24.5,"Good","No",7.7,149
-"P0070",72,"England","Female",2.8,NA,"Good","No",6.8,142
-"P0071",29,"England","Male",5.7,22.2,"Average","No",7.5,124
-"P0072",48,"Northern Ireland","Female",NA,25.1,"Poor","Yes",7,139
-"P0073",54,"England","Female",9,20.4,"Good","Yes",6.5,147
-"P0074",77,"Wales","Female",4,22.2,"Good","No",7.5,132
-"P0075",80,"England","Female",7.3,24.7,"Good","Yes",7.6,148
-"P0076",43,"England","Male",7.9,28.7,"Good","No",7.2,139
-"P0077",74,"Northern Ireland","Male",5.3,24.9,"Good","Yes",5.3,150
-"P0078",40,"England","Female",4.3,29.8,"Average","No",6.8,134
-"P0079",52,"Scotland","Male",2.8,25.3,"Good","No",8,143
-"P0080",59,"Scotland","Female",0.4,30.4,"Poor","No",9,157
-"P0081",18,"Scotland","Female",4.9,28.6,"Poor","Yes",8.4,122
-"P0082",37,"England","Male",8.3,26.6,"Poor","No",7.6,131
-"P0083",39,"England","Male",3.5,28.4,"Average","No",9.1,135
-"P0084",39,"England","Female",3.4,25.5,"Good","No",5.7,141
-"P0085",37,"Scotland","Male",3.8,23.6,"Average","No",7.1,133
-"P0086",54,"Northern Ireland","Male",7.9,23.4,"Poor","Yes",6.1,155
-"P0087",52,"Northern Ireland","Female",4.9,26.6,"Good","No",8,134
-"P0088",21,"Wales","Female",8.6,22.6,"Poor","No",7.3,132
-"P0089",46,"Scotland","Male",1.6,29.8,"Poor","No",7.5,138
-"P0090",61,"Scotland","Male",6.6,20.1,"Good","No",7.8,142
-"P0091",58,"Northern Ireland","Female",2.6,29.5,"Average","No",7.6,152
-"P0092",41,"England","Male",1.9,27.9,"Poor","Yes",6,137
-"P0093",31,"England","Male",9.3,27,"Average","No",6.3,134
-"P0094",47,"England","Male",2.7,31.8,"Poor","Yes",5.1,152
-"P0095",40,"England","Female",8.2,23.2,"Poor","Yes",7.1,132
-"P0096",51,"England","Female",2.6,34.5,"Poor","No",9.6,158
-"P0097",48,"Wales","Female",4.8,25.2,"Good","No",6.1,130
-"P0098",66,"Scotland","Male",5.8,25.6,"Average","No",7.7,156
-"P0099",51,"England","Male",5.6,28.8,"Average","No",7.5,152
-"P0100",33,"Wales","Male",5.1,24,"Average","No",7.3,142
-"P0101",53,"England","Female",8.1,25,"Good","Yes",6.7,146
-"P0102",42,"England","Female",5.6,25.5,"Poor","Yes",6.3,137
-"P0103",79,"England","Male",4.9,28.1,"Good","No",6.8,165
-"P0104",60,"Northern Ireland","Male",6.4,22.9,"Good","No",8.3,147
-"P0105",77,"Northern Ireland","Female",4.9,25.3,"Good","No",7.7,150
-"P0106",75,"England","Female",5.9,25.5,"Good","No",7.2,138
-"P0107",63,"Northern Ireland","Female",4.2,23.6,"Good","No",6.3,133
-"P0108",50,"Scotland","Male",3.8,25.1,"Average","No",7.5,145
-"P0109",38,"England","Female",3.2,30.9,"Poor","Yes",7.4,152
-"P0110",20,"Wales","Male",3.1,27.3,"Poor","Yes",8.6,141
-"P0111",49,"Scotland","Female",5.4,24.2,"Average","No",6,137
-"P0112",78,"England","Male",2.8,29.9,"Average","Yes",8.2,160
-"P0113",53,"England","Male",2.3,25.3,"Average","No",8.8,140
-"P0114",70,"Wales","Female",7.5,24.7,"Average","No",9.3,154
-"P0115",75,"England","Male",0,30.5,"Good","No",7.4,155
-"P0116",68,"England","Female",NA,27.8,"Poor","No",8.1,146
-"P0117",61,"Scotland","Male",7.4,28.8,"Average","Yes",6.4,154
-"P0118",28,"England","Male",5.3,23.5,"Average","No",7.8,126
-"P0119",75,"Scotland","Female",NA,25.8,"Good","Yes",5,144
-"P0120",41,"England","Female",2.4,27,"Average","No",8.1,133
-"P0121",62,"Wales","Male",5.9,28.1,"Good","No",7.4,147
-"P0122",41,"Northern Ireland","Male",3.7,28.8,"Average","Yes",7.6,150
-"P0123",54,"England","Male",4.8,26.9,"Average","No",8.8,147
-"P0124",72,"England","Female",3.8,25.2,"Good","No",6.6,147
-"P0125",72,"Northern Ireland","Female",NA,23.5,"Good","No",8.8,142
-"P0126",53,"England","Female",4.2,27.2,"Average","No",8.2,149
-"P0127",40,"Scotland","Male",6.8,28.7,"Average","No",7.9,138
-"P0128",31,"Northern Ireland","Female",3.8,25.9,"Average","No",8.1,129
-"P0129",47,"Scotland","Male",4.1,30,"Poor","No",7.5,142
-"P0130",38,"Northern Ireland","Female",6,28.4,"Poor","No",6.1,149
-"P0131",35,"Scotland","Female",6.5,24.8,"Average","No",6.9,126
-"P0132",28,"Scotland","Female",6,28.1,"Good","No",6.8,130
-"P0133",70,"Wales","Female",4.2,27.7,"Good","No",7.8,155
-"P0134",67,"England","Female",6.5,27.2,"Average","No",8.1,185
-"P0135",30,"Northern Ireland","Female",3,26.7,"Average","Yes",6.9,143
-"P0136",53,"Northern Ireland","Female",3.9,34.2,"Poor","No",6.8,147
-"P0137",71,"Scotland","Male",5.1,25,"Poor","No",7.5,139
-"P0138",33,"Scotland","Female",3.1,26,"Average","No",7,139
-"P0139",31,"England","Female",8.5,24.4,"Average","No",7.9,145
-"P0140",75,"Scotland","Female",7.7,23.1,"Good","No",7.8,145
-"P0141",57,"Wales","Female",4.4,24.8,"Average","No",6.6,141
-"P0142",35,"England","Female",8.2,19.5,"Good","No",7.9,130
-"P0143",78,"Northern Ireland","Male",4.1,22.5,"Good","No",8.4,147
-"P0144",61,"Scotland","Male",6.9,31.2,"Average","No",7.3,151
-"P0145",53,"Scotland","Male",3.8,30,"Average","No",6.9,153
-"P0146",80,"England","Male",4.9,22.8,"Good","No",8,141
-"P0147",26,"England","Female",2.7,24.8,"Average","No",4.9,137
-"P0148",42,"Northern Ireland","Male",10.9,26.7,"Average","Yes",7.2,172
-"P0149",36,"Wales","Male",8.6,24.1,"Average","No",5.9,142
-"P0150",28,"Wales","Female",2.7,24.9,"Poor","Yes",6.2,131
-"P0151",26,"Northern Ireland","Male",2.8,28.4,"Poor","No",7.8,151
-"P0152",22,"Wales","Female",7.7,27.5,"Poor","No",7.5,141
-"P0153",49,"Scotland","Female",0.1,NA,"Poor","Yes",7.5,165
-"P0154",59,"England","Male",9,20.8,"Good","No",8.5,141
-"P0155",39,"England","Male",3.7,26.8,"Poor","Yes",8.8,142
-"P0156",20,"England","Male",6.1,25.1,"Poor","No",7.4,136
-"P0157",34,"Wales","Female",3.3,28.6,"Poor","No",7.6,128
-"P0158",49,"England","Female",3.7,NA,"Poor","No",7.1,140
-"P0159",30,"England","Female",5.7,25.1,"Poor","No",7.1,136
-"P0160",45,"England","Male",5.4,25.7,"Average","No",5.1,147
-"P0161",72,"Wales","Female",0,33.8,"Poor","Yes",8.3,154
-"P0162",68,"Northern Ireland","Male",2.2,28.7,"Average","No",7.5,156
-"P0163",32,"Wales","Female",4.7,28.1,"Poor","Yes",6.4,142
-"P0164",52,"Northern Ireland","Male",3.5,27.3,"Poor","No",7.3,128
-"P0165",19,"England","Female",4.7,27.5,"Poor","Yes",5.9,132
-"P0166",20,"England","Female",6.9,29.7,"Poor","Yes",8.4,136
-"P0167",63,"Northern Ireland","Male",4.7,26.5,"Good","No",7.6,142
-"P0168",72,"Scotland","Female",3.3,29.1,"Good","No",6.9,162
-"P0169",22,"Northern Ireland","Female",7.2,25.3,"Poor","No",6,123
-"P0170",18,"England","Male",5.8,24.4,"Poor","Yes",6.6,143
-"P0171",40,"Wales","Female",7.6,22.3,"Average","No",7.6,136
-"P0172",63,"England","Female",NA,22.6,"Good","No",6.9,136
-"P0173",55,"England","Male",6,26.5,"Average","No",8.6,143
-"P0174",24,"England","Male",6.6,22.3,"Poor","Yes",5.8,125
-"P0175",76,"Wales","Male",3,29.8,"Poor","No",8.2,152
-"P0176",74,"England","Male",5.3,29.7,"Average","No",6.7,162
-"P0177",45,"Wales","Female",5.7,26,"Average","No",8.1,144
-"P0178",64,"Wales","Male",1.8,30.8,"Average","No",5.8,147
-"P0179",79,"England","Female",6.9,20.8,"Good","Yes",5.7,151
-"P0180",76,"England","Female",5.3,26.4,"Average","Yes",8.1,147
-"P0181",38,"Northern Ireland","Female",5.2,27.9,"Poor","No",8.4,138
-"P0182",39,"Northern Ireland","Male",0.2,27.5,"Poor","No",6.3,143
-"P0183",53,"England","Male",2,31.1,"Poor","Yes",7.8,160
-"P0184",18,"Northern Ireland","Male",6.6,27.4,"Poor","No",7.1,142
-"P0185",32,"Scotland","Female",5.3,23,"Average","Yes",7.9,138
-"P0186",21,"Northern Ireland","Female",2.2,27.6,"Average","No",8.9,131
-"P0187",26,"England","Female",1.9,26.9,"Poor","Yes",7.2,135
-"P0188",60,"England","Female",3,27.5,"Good","No",8.4,136
-"P0189",26,"Wales","Female",7.5,23.5,"Average","Yes",7.7,137
-"P0190",72,"England","Male",4.3,27.3,"Good","No",6.4,165
-"P0191",58,"England","Female",5.9,20,"Average","No",8.7,133
-"P0192",46,"England","Male",4.2,22.7,"Poor","No",7.9,153
-"P0193",21,"England","Female",5,26.6,"Average","Yes",7.1,138
-"P0194",67,"Wales","Female",4.3,31.9,"Average","No",7.9,153
-"P0195",45,"Wales","Male",4.7,19.3,"Average","Yes",6.6,144
-"P0196",58,"Northern Ireland","Male",4.5,28.9,"Poor","No",7.5,166
-"P0197",55,"Scotland","Female",6.9,26.9,"Poor","No",7.7,160
-"P0198",66,"Northern Ireland","Female",3.4,24.5,"Good","Yes",7.2,142
-"P0199",61,"England","Female",4.2,25.2,"Average","No",7.4,148
-"P0200",38,"England","Female",5.8,23.2,"Poor","Yes",6.7,147
-"P0201",41,"Northern Ireland","Female",7.8,22.4,"Good","No",8.6,131
-"P0202",68,"Scotland","Male",2.7,28.7,"Average","No",7.1,161
-"P0203",70,"England","Male",7.1,21.8,"Good","No",7,143
-"P0204",30,"Northern Ireland","Female",4.3,28.5,"Poor","Yes",7.1,143
-"P0205",66,"Wales","Male",3.6,26,"Good","No",7.6,151
-"P0206",76,"England","Male",5.8,24.8,"Good","No",9.3,150
-"P0207",33,"Wales","Male",4.3,26.5,"Average","Yes",7.4,140
-"P0208",73,"England","Male",4.2,31.7,"Average","No",5.3,152
-"P0209",47,"Northern Ireland","Female",6.2,25,"Poor","Yes",8.4,143
-"P0210",72,"England","Female",6,25.1,"Good","No",8.5,141
-"P0211",69,"Scotland","Male",2.7,NA,"Good","No",7.8,160
-"P0212",45,"England","Male",4.4,30.4,"Average","Yes",6.1,145
-"P0213",37,"Wales","Male",7.9,25.9,"Average","Yes",6.9,142
-"P0214",42,"England","Female",5.8,23.1,"Average","Yes",7.1,137
-"P0215",48,"England","Female",5.9,29.6,"Average","Yes",6.5,139
-"P0216",42,"Wales","Female",2.6,26.7,"Average","No",5.9,122
-"P0217",39,"England","Male",6.9,30.8,"Poor","No",7.1,163
-"P0218",60,"England","Male",3.3,23.3,"Good","No",9,144
-"P0219",45,"England","Male",8.3,21.4,"Average","No",8.2,135
-"P0220",54,"Scotland","Male",3.3,30.7,"Poor","Yes",7.1,162
-"P0221",80,"England","Female",5.9,27,"Good","No",6.9,157
-"P0222",77,"Scotland","Female",1.1,31.4,"Poor","Yes",7.1,166
-"P0223",37,"England","Male",5.5,25.3,"Average","No",8.2,137
-"P0224",44,"England","Female",6,23.8,"Average","No",7.8,138
-"P0225",63,"England","Female",2.4,33,"Poor","No",7.5,166
-"P0226",44,"Scotland","Male",5.5,24.8,"Average","No",7.4,134
-"P0227",35,"England","Male",6,29.8,"Average","Yes",8.4,162
-"P0228",27,"England","Male",6,23.4,"Good","No",7.5,133
-"P0229",79,"Northern Ireland","Female",7.6,32.9,"Good","No",7.5,156
-"P0230",47,"Scotland","Male",5.3,26.8,"Average","Yes",8.3,145
-"P0231",46,"England","Male",5,29,"Poor","No",7.7,159
-"P0232",21,"England","Female",4.6,21.9,"Poor","Yes",7.4,118
-"P0233",56,"England","Male",6.7,23.6,"Good","No",6.6,138
-"P0234",65,"Scotland","Male",3.3,27.1,"Good","No",8.9,150
-"P0235",65,"Scotland","Male",NA,22,"Average","No",6.3,154
-"P0236",51,"England","Female",6,25.1,"Average","No",8,137
-"P0237",47,"Northern Ireland","Female",4.3,27.9,"Average","Yes",8,143
-"P0238",20,"Northern Ireland","Male",7.5,25.2,"Average","No",6.8,127
-"P0239",56,"England","Female",7.5,22.2,"Good","No",6.9,130
-"P0240",60,"England","Female",5.4,23.4,"Good","No",8,132
-"P0241",33,"England","Male",3.5,27.8,"Average","Yes",6.5,136
-"P0242",64,"Northern Ireland","Male",3.9,25.3,"Good","No",5.7,138
-"P0243",77,"England","Male",3.7,27.6,"Good","No",6.8,131
-"P0244",76,"England","Female",6.8,29.4,"Good","No",9.2,157
-"P0245",64,"England","Male",4.3,25.6,"Good","No",8.8,150
-"P0246",37,"England","Female",4.8,26,"Poor","No",6.2,131
-"P0247",32,"England","Male",3.4,28.9,"Poor","No",8.3,146
-"P0248",73,"England","Male",2.3,31.3,"Average","No",6.9,164
-"P0249",18,"England","Female",6.7,27.2,"Poor","Yes",6.7,141
-"P0250",20,"England","Female",4.7,24.9,"Average","No",5.8,126
-"P0251",27,"England","Female",5.7,NA,"Poor","Yes",7.5,151
-"P0252",70,"England","Male",5.5,NA,"Good","No",7.9,140
-"P0253",62,"England","Male",5.8,22.7,"Good","No",7.6,142
-"P0254",73,"Wales","Male",10.3,23.7,"Average","No",6.8,154
-"P0255",28,"England","Male",6.7,24.1,"Good","No",8,134
-"P0256",22,"Scotland","Male",8.1,22.2,"Good","No",4.9,129
-"P0257",45,"Wales","Male",3.7,31.5,"Poor","Yes",5.9,156
-"P0258",77,"Scotland","Female",0,34.5,"Poor","No",7.3,162
-"P0259",46,"Northern Ireland","Male",3.7,29,"Poor","Yes",7.1,151
-"P0260",53,"Wales","Male",5.7,27.6,"Poor","Yes",7.1,159
-"P0261",25,"England","Female",3.3,28.8,"Poor","No",7.8,129
-"P0262",75,"Scotland","Female",5.6,25.8,"Good","No",6.5,148
-"P0263",22,"Wales","Female",NA,28.6,"Average","No",8.6,129
-"P0264",33,"Northern Ireland","Female",5,25.6,"Average","No",8.4,140
-"P0265",72,"England","Female",2.3,28.3,"Average","Yes",7.1,144
-"P0266",75,"England","Female",5.7,26.7,"Good","No",9.1,144
-"P0267",48,"England","Female",5.3,30,"Poor","Yes",6.6,152
-"P0268",29,"Northern Ireland","Male",7.3,26.1,"Poor","No",7.5,135
-"P0269",54,"England","Female",5.6,33.1,"Poor","No",7.3,133
-"P0270",39,"England","Male",4.4,25.6,"Average","No",6.6,136
-"P0271",48,"England","Male",7.2,21.1,"Good","No",7.6,134
-"P0272",68,"England","Male",3,24.2,"Good","No",7.4,151
-"P0273",64,"England","Female",1.7,28.3,"Average","Yes",7.8,152
-"P0274",58,"England","Female",2.7,35.6,"Average","No",8,154
-"P0275",52,"Wales","Male",5.6,25.2,"Good","No",5.4,144
-"P0276",69,"Scotland","Female",5.3,27.1,"Good","No",6.8,138
-"P0277",71,"Scotland","Male",1.2,26.1,"Good","No",6.3,180
-"P0278",19,"Scotland","Male",4.5,25.3,"Poor","No",7,145
-"P0279",24,"England","Female",1.6,29,"Poor","Yes",7.7,132
-"P0280",56,"Wales","Female",3.3,25.5,"Good","No",8.6,151
-"P0281",66,"Wales","Female",4.2,27.6,"Average","No",6.5,154
-"P0282",68,"England","Female",7.4,26.1,"Good","No",7.4,159
-"P0283",68,"Scotland","Male",3.1,26.9,"Good","No",8.1,144
-"P0284",46,"Northern Ireland","Female",6.1,23.3,"Average","No",8,149
-"P0285",56,"Scotland","Male",4.6,23.5,"Good","Yes",7.1,146
-"P0286",54,"Northern Ireland","Male",4.7,30.5,"Poor","Yes",6.5,153
-"P0287",20,"Scotland","Male",3.5,25.4,"Poor","No",5.8,141
-"P0288",42,"Scotland","Male",7.9,22.9,"Average","No",6.5,133
-"P0289",56,"England","Male",9,19.4,"Average","Yes",6.2,140
-"P0290",64,"Scotland","Male",6.4,28.6,"Average","No",7.7,158
-"P0291",22,"Wales","Male",8.1,26.7,"Average","No",5.9,139
-"P0292",20,"Wales","Female",5.2,29.6,"Poor","Yes",6.7,127
-"P0293",49,"England","Female",3,NA,"Poor","No",8.4,142
-"P0294",29,"Northern Ireland","Female",7.4,24.8,"Poor","Yes",8,139
-"P0295",59,"England","Female",3.3,28.1,"Good","No",8.6,151
-"P0296",27,"England","Male",3.8,31.4,"Poor","Yes",7.1,152
-"P0297",48,"Scotland","Female",3.8,26.1,"Poor","Yes",8,148
-"P0298",46,"Scotland","Male",8.9,24,"Average","No",9.1,150
-"P0299",66,"Wales","Female",5.8,25.3,"Good","No",6.6,146
-"P0300",55,"Scotland","Female",8.7,26.4,"Good","No",8.9,127
-"P0301",47,"Scotland","Female",1.2,27.6,"Poor","No",7.3,129
-"P0302",38,"Northern Ireland","Male",3.4,31.3,"Poor","Yes",6.8,161
-"P0303",77,"Northern Ireland","Female",3,29.4,"Average","Yes",6.5,164
-"P0304",72,"England","Female",3.8,33.3,"Average","No",6.9,165
-"P0305",76,"Wales","Male",3,27.9,"Good","No",5.9,172
-"P0306",33,"England","Female",1.8,25.5,"Average","No",8.1,135
-"P0307",40,"Wales","Male",8.6,20.5,"Good","No",8.7,135
-"P0308",23,"Wales","Female",8.1,23.7,"Poor","Yes",7.3,137
-"P0309",25,"Wales","Female",4.1,30.8,"Average","No",8.6,138
-"P0310",28,"England","Male",5.4,26.4,"Poor","No",6.2,144
-"P0311",58,"Wales","Female",1.4,32.1,"Average","Yes",6.7,154
-"P0312",76,"Scotland","Male",3.2,23.8,"Good","No",7.4,159
-"P0313",68,"Wales","Male",5.7,28.6,"Average","No",9.8,150
-"P0314",43,"Scotland","Female",3.3,28.7,"Good","No",6.2,132
-"P0315",46,"Wales","Male",7.6,24,"Average","No",6.9,142
-"P0316",54,"Wales","Male",7.1,30,"Poor","No",7.3,159
-"P0317",33,"Wales","Female",3.8,26,"Average","No",5.7,127
-"P0318",72,"England","Female",3.2,33.2,"Good","No",8,150
-"P0319",45,"Wales","Male",4.7,24.6,"Good","Yes",7,132
-"P0320",56,"England","Female",5.3,26.1,"Good","No",8.6,146
-"P0321",26,"Wales","Female",3.2,27.7,"Poor","Yes",7.4,143
-"P0322",72,"England","Female",3.8,27.4,"Good","No",8.1,142
-"P0323",53,"Northern Ireland","Female",4.2,22.7,"Good","No",5.6,133
-"P0324",20,"England","Female",7.7,21.2,"Poor","No",7.4,124
-"P0325",27,"Wales","Male",6.1,25.1,"Poor","No",6.7,141
-"P0326",64,"Wales","Male",2.4,28.1,"Average","No",6.6,155
-"P0327",28,"England","Male",8.1,21.6,"Poor","No",7.3,129
-"P0328",68,"England","Female",5.8,24.5,"Good","No",7.1,125
-"P0329",41,"England","Female",5.8,25.1,"Average","No",9.3,130
-"P0330",36,"Wales","Female",5,30.2,"Poor","No",7,134
-"P0331",42,"Wales","Female",3.5,31.1,"Poor","No",7.2,147
-"P0332",40,"England","Female",4.9,25.6,"Average","No",6.7,130
-"P0333",58,"Northern Ireland","Male",5.6,25.5,"Average","No",8,142
-"P0334",38,"Scotland","Male",6.7,20.8,"Good","No",9.2,129
-"P0335",37,"Northern Ireland","Male",4.7,22.7,"Average","No",8,139
-"P0336",29,"England","Female",5,26.5,"Poor","Yes",7.6,136
-"P0337",55,"Scotland","Male",5.4,28.2,"Poor","No",6.9,158
-"P0338",58,"England","Female",3.4,27.5,"Average","No",7.8,151
-"P0339",73,"Wales","Male",3,29.8,"Average","No",6.6,136
-"P0340",54,"England","Female",2.5,29.5,"Poor","Yes",8.3,153
-"P0341",31,"Northern Ireland","Male",6.4,18.7,"Average","Yes",8.3,123
-"P0342",47,"Wales","Male",7,27.2,"Average","No",7.3,161
-"P0343",34,"England","Female",5.2,27.2,"Average","No",7.8,143
-"P0344",24,"Wales","Female",5.6,30.6,"Poor","No",6.9,130
-"P0345",45,"Scotland","Female",6,19,"Good","No",8.3,140
-"P0346",44,"Scotland","Male",6.2,23.4,"Average","No",7,136
-"P0347",73,"England","Female",2.2,30.9,"Average","Yes",6.8,156
-"P0348",33,"Wales","Female",1.2,29.4,"Poor","No",7,138
-"P0349",71,"England","Female",0,30.7,"Poor","Yes",6.8,161
-"P0350",43,"Wales","Female",7.8,24.7,"Good","No",9,140
-"P0351",46,"Scotland","Male",2.2,28,"Average","No",7.9,155
-"P0352",61,"England","Male",9.2,21.4,"Good","No",5.5,149
-"P0353",66,"Northern Ireland","Female",0.2,33.9,"Poor","Yes",6.8,159
-"P0354",68,"Scotland","Female",4.7,25,"Good","Yes",8,153
-"P0355",77,"Scotland","Male",5.8,25.2,"Good","No",7.4,148
-"P0356",53,"England","Female",5.9,27.3,"Average","No",6.5,136
-"P0357",74,"Northern Ireland","Female",5.5,27.2,"Average","Yes",6.4,159
-"P0358",26,"England","Male",3.3,27,"Poor","Yes",7.6,147
-"P0359",76,"Wales","Female",7.8,24.1,"Good","No",8.5,142
-"P0360",33,"England","Female",3.7,29,"Poor","No",6.6,115
-"P0361",20,"England","Female",10.1,25.9,"Poor","No",6.6,133
-"P0362",34,"England","Female",3.9,24.4,"Poor","No",8.4,143
-"P0363",39,"Scotland","Male",5.9,29,"Average","No",7,138
-"P0364",29,"England","Male",5.1,22.8,"Average","Yes",6.9,138
-"P0365",42,"England","Female",3.6,25.7,"Average","No",6.7,136
-"P0366",73,"Scotland","Male",3.6,31.2,"Good","No",6.3,163
-"P0367",35,"Wales","Female",2.1,28.3,"Poor","No",7.1,142
-"P0368",29,"Wales","Female",6.9,NA,"Average","No",8.2,131
-"P0369",61,"England","Male",4.7,29.4,"Poor","No",7,160
-"P0370",51,"England","Female",4.5,29.9,"Good","Yes",8.5,144
-"P0371",50,"England","Male",7.5,26,"Good","No",8.3,142
-"P0372",30,"England","Female",7,17.9,"Good","No",7.1,124
-"P0373",20,"Wales","Male",6.9,25.5,"Average","No",7.6,121
-"P0374",75,"Wales","Male",5.6,30.4,"Good","No",6.4,159
-"P0375",36,"Wales","Male",2.4,31.3,"Poor","No",8.4,166
-"P0376",74,"Wales","Male",0.6,30.7,"Poor","No",6.2,154
-"P0377",64,"Scotland","Male",1.4,30.7,"Average","No",8.1,159
-"P0378",73,"England","Female",1.2,27.1,"Average","No",6.6,166
-"P0379",49,"England","Male",5,29.2,"Poor","Yes",8.3,151
-"P0380",74,"Northern Ireland","Male",7.2,25.2,"Good","No",7.2,152
-"P0381",45,"England","Female",3.8,29.1,"Average","Yes",6.5,153
-"P0382",24,"England","Male",4.3,25.8,"Poor","Yes",6,140
-"P0383",78,"England","Female",3.4,25,"Good","No",6.9,152
-"P0384",28,"Wales","Female",2.5,32.7,"Poor","No",7.7,131
-"P0385",22,"Scotland","Female",3.5,23.3,"Average","No",7.4,111
-"P0386",24,"Northern Ireland","Female",3.4,26.1,"Poor","No",7.5,135
-"P0387",21,"England","Female",9.2,24.5,"Poor","No",6.7,133
-"P0388",76,"England","Male",7.6,25.4,"Good","No",8.9,158
-"P0389",35,"Northern Ireland","Female",3.6,NA,"Average","No",5.7,131
-"P0390",33,"England","Male",2.1,27.9,"Average","No",6.7,136
-"P0391",39,"Wales","Female",6.7,25.8,"Good","No",7.3,118
-"P0392",55,"England","Male",8.9,26.8,"Average","Yes",6.7,174
-"P0393",80,"England","Female",4.3,23.8,"Good","No",7.3,156
-"P0394",40,"England","Female",6.3,25.6,"Poor","No",8.4,138
-"P0395",66,"Scotland","Male",4.2,27.6,"Average","No",6.6,146
-"P0396",57,"Wales","Female",7.1,26.9,"Average","No",6.6,137
-"P0397",34,"Northern Ireland","Male",5.3,25,"Average","No",6.6,129
-"P0398",49,"England","Female",2.8,25.6,"Average","Yes",6.7,148
-"P0399",55,"Northern Ireland","Female",4.4,25.1,"Good","No",6.7,136
-"P0400",72,"Wales","Male",4.9,27.8,"Good","No",8.8,163
-"P0401",52,"Northern Ireland","Male",5.1,27.5,"Average","No",7.8,154
-"P0402",69,"England","Male",5.4,31.8,"Average","No",6.6,155
-"P0403",18,"England","Female",10.1,20,"Average","No",7.8,121
-"P0404",35,"Scotland","Male",2.8,36.2,"Poor","Yes",7.7,164
-"P0405",57,"Wales","Male",4.4,27.1,"Poor","No",8.4,151
-"P0406",27,"England","Male",8.7,23.6,"Average","No",8.6,136
-"P0407",53,"England","Female",6.6,22.6,"Average","No",8.5,141
-"P0408",33,"Scotland","Female",5.8,27.4,"Average","Yes",5.3,152
-"P0409",29,"Scotland","Female",6.8,19.4,"Good","Yes",6.3,128
-"P0410",49,"Scotland","Male",1.7,30.1,"Poor","No",8.4,150
-"P0411",62,"England","Female",3,28.3,"Good","No",7.4,136
-"P0412",36,"Scotland","Female",2.4,29.3,"Poor","No",5.9,133
-"P0413",37,"Scotland","Female",7.8,27.5,"Good","No",7.2,129
-"P0414",64,"Northern Ireland","Female",4.1,24.1,"Average","Yes",8,163
-"P0415",49,"England","Female",5.9,24,"Good","No",6.2,132
-"P0416",30,"Wales","Female",0,31,"Poor","No",6.8,134
-"P0417",54,"Scotland","Female",3.5,28.3,"Poor","No",5.8,144
-"P0418",61,"Northern Ireland","Female",5.7,23.8,"Good","No",7.1,132
-"P0419",45,"England","Female",5.5,27.9,"Good","Yes",6.1,132
-"P0420",60,"Scotland","Female",3.1,32.9,"Average","No",5.4,154
-"P0421",37,"England","Female",7.2,27.2,"Poor","Yes",7.3,142
-"P0422",69,"Northern Ireland","Female",5,25.1,"Good","No",6.7,142
-"P0423",57,"Scotland","Female",4.5,27.3,"Good","No",9.3,145
-"P0424",52,"England","Female",4,26.9,"Good","No",6.4,150
-"P0425",65,"Wales","Male",3.5,30.8,"Average","Yes",8.8,149
-"P0426",32,"Northern Ireland","Female",3.8,29.3,"Average","Yes",8.7,129
-"P0427",56,"England","Male",5.6,29.2,"Average","Yes",6.5,162
-"P0428",37,"Wales","Female",4.6,28.1,"Average","No",6.4,145
-"P0429",65,"Wales","Male",NA,24.6,"Good","No",7.1,161
-"P0430",34,"Northern Ireland","Male",4.6,25.5,"Poor","Yes",8.5,144
-"P0431",71,"Northern Ireland","Female",4.8,27.2,"Good","No",7.3,146
-"P0432",31,"England","Male",8.5,25.3,"Average","No",6.7,133
-"P0433",51,"England","Female",7.4,28.7,"Poor","No",7.1,159
-"P0434",19,"England","Male",5.9,23,"Poor","No",8,126
-"P0435",43,"Northern Ireland","Male",4.2,29.6,"Poor","No",8.9,151
-"P0436",72,"Scotland","Male",2.9,27.4,"Average","No",6.4,152
-"P0437",56,"Scotland","Female",0.1,34.3,"Average","Yes",6.3,159
-"P0438",39,"England","Female",2.9,27.3,"Poor","No",7,147
-"P0439",74,"Northern Ireland","Female",5.6,26.8,"Average","Yes",7.1,161
-"P0440",61,"Wales","Male",3.5,26.1,"Average","No",7.9,154
-"P0441",20,"Wales","Male",4.4,24.6,"Poor","No",6.2,136
-"P0442",57,"Northern Ireland","Male",7.7,24,"Average","No",6.7,135
-"P0443",71,"England","Male",6.3,24.1,"Good","No",8.1,135
-"P0444",55,"Wales","Male",4.6,27.1,"Poor","No",7.1,140
-"P0445",33,"England","Male",4.6,23.1,"Average","Yes",7.4,146
-"P0446",50,"Wales","Female",5.7,27.4,"Poor","No",7.4,143
-"P0447",42,"Scotland","Male",1.7,30.2,"Poor","Yes",7,173
-"P0448",74,"Wales","Female",2.6,30.6,"Good","No",7.9,143
-"P0449",41,"England","Male",6,28.7,"Average","No",6.7,147
-"P0450",62,"Northern Ireland","Female",7.6,24.1,"Good","No",6.3,140
-"P0451",24,"Northern Ireland","Female",2,27.3,"Poor","No",7.6,136
-"P0452",24,"Wales","Male",7.7,22.5,"Good","No",7.8,116
-"P0453",43,"England","Male",3.5,30.6,"Average","No",8.6,150
-"P0454",64,"Northern Ireland","Female",5.5,17.6,"Good","No",9.6,125
-"P0455",36,"Wales","Male",5,25.3,"Average","Yes",7.5,134
-"P0456",33,"Scotland","Female",5.8,26.3,"Poor","No",6.3,131
-"P0457",65,"Wales","Male",5.9,26.8,"Poor","No",6.9,165
-"P0458",58,"England","Male",7.2,24.1,"Good","No",7.8,136
-"P0459",72,"Scotland","Female",3.9,25.6,"Average","Yes",5.2,163
-"P0460",73,"Scotland","Male",3,30.8,"Poor","No",8.1,160
-"P0461",73,"England","Male",4.4,29.9,"Good","No",7,148
-"P0462",19,"Wales","Male",5.3,25.2,"Average","Yes",6.9,141
-"P0463",75,"England","Female",3.3,22.3,"Good","No",8.9,159
-"P0464",65,"Scotland","Male",2.9,31,"Poor","No",6.3,168
-"P0465",60,"Northern Ireland","Male",5.4,28.5,"Average","No",8.5,148
-"P0466",60,"Scotland","Female",4,32.4,"Poor","Yes",7.3,153
-"P0467",24,"Scotland","Male",8.8,25,"Poor","Yes",6.4,138
-"P0468",50,"England","Female",6,28.7,"Average","No",7.4,139
-"P0469",48,"England","Female",0.8,31.4,"Poor","No",8.4,145
-"P0470",31,"Scotland","Female",7.6,26.4,"Poor","No",6.6,137
-"P0471",75,"Scotland","Female",4.3,25.8,"Good","No",7.6,147
-"P0472",71,"England","Female",1,28.3,"Average","No",6.9,158
-"P0473",49,"England","Male",1.4,27.7,"Poor","No",9,163
-"P0474",61,"Wales","Female",2.3,30.5,"Average","No",7.1,149
-"P0475",53,"England","Female",3,28.4,"Good","No",8,144
-"P0476",32,"Scotland","Male",6.4,25.4,"Good","Yes",7.7,144
-"P0477",76,"Northern Ireland","Female",4,29,"Good","No",7.9,157
-"P0478",52,"Wales","Male",6.7,28.4,"Average","Yes",6.6,149
-"P0479",61,"England","Male",5.4,30.7,"Good","No",9.4,156
-"P0480",76,"England","Male",3.3,29.6,"Good","No",7,151
+ID	Age	Region_UK	Gender	Exercise_hours	BMI	Diet_quality	Smoker	Sleep_hours	Blood_pressure
+P0001	26	England	Male	5.4	28.6	Good	No	7	138
+P0002	76	Wales	Female	5.6	29.2	Average	No	5.6	146
+P0003	18	England	Male	6.9	24.5	Good	No	7.1	120
+P0004	44	Scotland	Male	4.1	23.4	Good	No	7.3	126
+P0005	34	Scotland	Male	7.4	34.4	Good	No	7.2	140
+P0006	36	England	Male	2.3	29.3	Poor	No	8.1	139
+P0007	24	England	Female	9.4	25	Good	No	7.2	117
+P0008	65	Wales	Female	7.3	24	Average	No	6.9	159
+P0009	44	Scotland	Female	4.2	25.3	Poor	Yes	7.1	144
+P0010	66	Wales	Male	3.2	25.1	Average	No	7.5	140
+P0011	36	England	Female	1.7	29.9	Good	No	7.4	142
+P0012	62	England	Female	4.3	29.4	Average	No	8.6	146
+P0013	79	Wales	Male	1.5	28.1	Poor	Yes	7	173
+P0014	19	England	Male	1.8	26.3	Average	No	6.6	122
+P0015	21	Wales	Female	4.8	26.1	Average	No	6.4	121
+P0016	72	Northern Ireland	Male	6.6	28.1	Average	Yes	6.8	174
+P0017	45	England	Male	8.8	27.5	Average	Yes	8.3	141
+P0018	52	England	Female	3.1	29.7	Average	No	8.1	141
+P0019	60	England	Male	5.1	30.7	Poor	No	7.2	169
+P0020	45	Northern Ireland	Female	6.2	26.8	Average	No	8.1	140
+P0021	27	Scotland	Female	5.4	27.2	Poor	No	7.8	123
+P0022	71	England	Female	6.2	24.7	Good	No	7.4	138
+P0023	27	Northern Ireland	Male	8.1	21.3	Average	No	7.4	134
+P0024	75	Scotland	Female	8.9	26	Poor	Yes	7.6	158
+P0025	56	England	Female	3.6	30.5	Poor	No	8	150
+P0026	55	Wales	Male	1	27.5	Average	No	6.6	145
+P0027	48	Northern Ireland	Female	6.8	18.5	Good	No	7.7	139
+P0028	46	Scotland	Male	6.4	24.3	Average	No	6.8	137
+P0029	57	England	Female	4	25.3	Poor	Yes	7.2	147
+P0030	38	England	Male	5.7	23.9	Good	No	9.1	140
+P0031	58	England	Female	7	23	Good	No	8.1	137
+P0032	19	Wales	Male	6.3	26.8	Poor	No	8.1	115
+P0033	61	England	Male	3.1	29.6	Average	No	6.4	160
+P0034	46	England	Female	5.8	29.5	Average	No	8.5	142
+P0035	75	England	Female	6	34.9	Average	No	8.2	167
+P0036	68	England	Female	5.3	27.9	Poor	No	7.8	166
+P0037	20	England	Male	4.6	26.2	Good	No	6.9	122
+P0038	58	Northern Ireland	Male	8.8	24.5	Good	No	5.8	142
+P0039	50	Scotland	Female	8	22.4	Average	No	6.9	136
+P0040	29	England	Male	NA	32.5	Poor	Yes	8	135
+P0041	80	Scotland	Male	8.2	24.7	Average	No	7.2	159
+P0042	27	Scotland	Female	6.2	28.6	Good	No	7.5	124
+P0043	42	England	Male	2.5	NA	Average	Yes	8.3	145
+P0044	19	Scotland	Female	6.6	24	Poor	No	6.5	129
+P0045	80	Scotland	Female	3.4	26.6	Good	No	6.5	155
+P0046	44	Scotland	Male	5.3	25.4	Average	Yes	7.1	142
+P0047	29	Scotland	Female	0.3	29.8	Poor	Yes	9	149
+P0048	45	England	Male	NA	28.4	Average	Yes	8.2	157
+P0049	24	England	Male	0.6	34	Poor	No	8.1	150
+P0050	45	England	Male	0.8	30.1	Good	No	5.5	121
+P0051	23	Wales	Male	3.3	27.1	Poor	No	6.6	136
+P0052	77	England	Female	8.1	28	Average	No	6.7	143
+P0053	52	Wales	Female	5.4	22.5	Poor	No	7.2	130
+P0054	68	Scotland	Male	3	27.7	Poor	No	8.2	156
+P0055	57	England	Female	NA	24.3	Average	No	6.2	134
+P0056	53	England	Male	2.9	24.9	Good	No	6.3	134
+P0057	27	Northern Ireland	Female	6.2	29.7	Poor	Yes	7.7	144
+P0058	53	England	Female	1.9	28	Average	No	7.3	143
+P0059	63	England	Female	NA	27.4	Good	No	8.6	133
+P0060	62	England	Male	8.5	25.5	Poor	No	6.3	152
+P0061	53	Scotland	Male	1.7	30.8	Good	No	6.9	149
+P0062	53	Scotland	Female	3.7	30.5	Average	No	7	145
+P0063	43	England	Female	6.5	21.6	Poor	Yes	8.6	149
+P0064	21	England	Female	5.6	32.8	Poor	No	5.3	132
+P0065	27	Scotland	Male	4.4	26	Poor	Yes	7.8	150
+P0066	57	Northern Ireland	Female	8.8	21.3	Good	No	8.1	124
+P0067	55	England	Female	5.2	26.1	Poor	Yes	7.7	141
+P0068	30	England	Female	7.8	21.9	Good	No	8	114
+P0069	35	England	Female	5.4	28.8	Poor	No	7.5	148
+P0070	40	Scotland	Female	6.8	26.2	Average	Yes	6	143
+P0071	22	England	Male	4.8	24.7	Good	No	8.4	131
+P0072	38	Northern Ireland	Male	6	19.9	Good	Yes	6	124
+P0073	52	Wales	Male	5.9	29.5	Poor	No	6.7	155
+P0074	54	England	Female	2	29	Poor	No	7.7	139
+P0075	20	Wales	Male	2	26.4	Average	Yes	8.4	129
+P0076	74	England	Female	4.2	32.9	Poor	Yes	7.9	167
+P0077	79	Northern Ireland	Male	3.2	29.8	Poor	No	6.2	165
+P0078	56	England	Male	4.3	27.7	Average	No	7.9	138
+P0079	66	Wales	Female	0.9	35.5	Average	No	7.9	160
+P0080	20	England	Male	8.9	23.5	Good	Yes	7	134
+P0081	31	England	Female	5.6	30.7	Poor	No	6.5	140
+P0082	34	England	Male	4.3	29	Poor	No	7.1	141
+P0083	80	Scotland	Female	2.8	28.5	Good	No	7.5	143
+P0084	48	Scotland	Female	6.8	20.9	Poor	No	7.4	126
+P0085	58	Northern Ireland	Female	4.7	22.2	Good	No	8.5	139
+P0086	18	England	Female	6	31.7	Average	No	6.6	132
+P0087	30	England	Male	7.7	NA	Poor	No	7.5	148
+P0088	47	Scotland	Female	5.7	28	Good	No	7.4	135
+P0089	70	Wales	Female	0	35.6	Poor	Yes	5.9	163
+P0090	53	Scotland	Male	2.6	24.4	Good	No	7.2	138
+P0091	32	England	Female	8.3	22.7	Good	No	8	126
+P0092	62	Scotland	Male	6.6	29.6	Good	No	6.7	149
+P0093	33	Wales	Female	5.3	22.7	Good	No	7	131
+P0094	32	England	Male	7	26.3	Average	Yes	5.1	128
+P0095	45	Northern Ireland	Male	3.3	31.8	Poor	Yes	6.3	153
+P0096	76	England	Male	3.6	29.6	Average	No	6.5	142
+P0097	26	England	Male	6.8	21.2	Good	No	7.9	127
+P0098	62	Wales	Male	2.5	25.5	Poor	Yes	7.7	170
+P0099	34	England	Male	3.1	31.7	Poor	Yes	7.7	149
+P0100	34	Northern Ireland	Female	4.9	25.1	Good	No	6.1	120
+P0101	41	England	Female	3.6	27.1	Poor	Yes	7.2	142
+P0102	67	England	Female	7	23.2	Poor	Yes	8.5	161
+P0103	58	Wales	Male	5	22.1	Average	No	5.9	140
+P0104	21	England	Female	2.3	26.1	Good	Yes	6.7	115
+P0105	44	England	Female	4.9	28.9	Poor	Yes	8.4	148
+P0106	43	Scotland	Male	3.5	29.5	Average	No	8.8	139
+P0107	47	England	Male	5	29.4	Poor	No	7.8	152
+P0108	52	England	Female	2.2	30.2	Poor	No	7.1	147
+P0109	75	Wales	Female	3.1	30.7	Average	Yes	6.9	156
+P0110	20	Northern Ireland	Female	2.7	25.7	Average	Yes	6	128
+P0111	57	England	Female	0.7	29.3	Poor	No	6.2	137
+P0112	32	England	Male	4.8	22.3	Average	No	8	130
+P0113	23	Scotland	Male	7.1	NA	Average	Yes	9.4	135
+P0114	80	England	Female	3.1	31.9	Poor	No	5.5	165
+P0115	52	England	Female	6.2	27	Poor	Yes	7.3	146
+P0116	33	Northern Ireland	Female	4.3	31.9	Average	No	8.3	146
+P0117	40	England	Male	2.5	24.8	Poor	No	7.5	140
+P0118	22	England	Female	10	21.9	Poor	No	7.5	137
+P0119	30	Wales	Female	6.6	22.5	Poor	No	7.1	137
+P0120	80	Northern Ireland	Female	2.8	29.3	Poor	No	6	147
+P0121	74	Wales	Male	3.4	24.1	Good	No	6.9	149
+P0122	27	Wales	Male	1.4	26.9	Average	No	7.5	137
+P0123	44	Wales	Female	6.2	21.8	Good	No	7.3	117
+P0124	45	Scotland	Female	3.2	29.4	Average	No	8.8	145
+P0125	24	Scotland	Female	5.2	22.8	Average	No	7.9	117
+P0126	67	England	Female	5.7	28.4	Average	No	9.5	154
+P0127	65	Wales	Female	1.8	29.8	Good	No	7.6	126
+P0128	71	England	Male	5.2	27.2	Poor	Yes	8.2	155
+P0129	31	England	Female	6.7	28.9	Average	Yes	6.3	125
+P0130	78	England	Male	NA	NA	Good	No	6.5	158
+P0131	61	England	Male	6.3	23.5	Good	Yes	7.7	148
+P0132	25	England	Male	5.5	30.7	Poor	No	7.8	141
+P0133	49	England	Male	6.9	25.4	Poor	No	7.7	148
+P0134	19	Wales	Male	5.5	18.9	Good	Yes	8	118
+P0135	46	Scotland	Male	4.9	30.5	Average	No	6.3	144
+P0136	39	Scotland	Female	NA	23.3	Good	No	8.8	129
+P0137	53	Wales	Female	1.7	30.7	Good	No	6.7	147
+P0138	56	Wales	Male	4	28.3	Average	Yes	6.1	153
+P0139	72	Wales	Female	3	31.1	Average	No	6.1	159
+P0140	28	Scotland	Male	4.9	24.8	Good	No	8.4	130
+P0141	61	England	Female	3.8	28.3	Average	No	7.6	155
+P0142	23	Northern Ireland	Female	10.5	17.2	Poor	No	8.2	117
+P0143	75	Wales	Male	5.3	26.2	Good	No	6.4	135
+P0144	26	England	Male	2.6	26.9	Average	No	8.7	136
+P0145	21	England	Male	8.3	24.3	Good	No	7	142
+P0146	39	Wales	Male	4.3	32.6	Poor	Yes	7.6	150
+P0147	49	England	Male	3.3	27.9	Poor	No	6.6	159
+P0148	37	England	Male	5.3	26.8	Good	No	6.8	158
+P0149	78	Wales	Female	4.1	35.3	Poor	No	6.1	155
+P0150	25	England	Female	6.2	22.9	Good	No	6.6	125
+P0151	71	England	Female	2.9	30.8	Good	Yes	6.2	142
+P0152	39	Scotland	Female	2.9	23.4	Average	No	7.7	133
+P0153	78	England	Female	3.7	36.4	Poor	No	8.1	164
+P0154	28	Wales	Male	5	30.3	Average	No	6.4	133
+P0155	34	Wales	Male	4.2	27.9	Average	No	7.6	151
+P0156	29	England	Male	8.2	25.3	Average	No	7.7	131
+P0157	43	Wales	Female	4.9	25.5	Average	No	7	134
+P0158	59	England	Male	5.3	28.3	Poor	Yes	6.4	160
+P0159	63	Wales	Male	3.5	27.4	Good	No	8.6	134
+P0160	51	Scotland	Male	7	28.4	Poor	No	7.7	158
+P0161	19	England	Female	1.6	28	Poor	No	7.6	143
+P0162	50	Wales	Male	4.8	27.6	Good	No	7.7	132
+P0163	63	England	Male	1.5	31.1	Good	No	7.4	129
+P0164	63	Wales	Female	4.4	22.9	Good	No	6.5	138
+P0165	18	Wales	Female	2	29.1	Poor	No	7.9	152
+P0166	47	England	Male	4.2	29.2	Poor	Yes	6.4	161
+P0167	19	England	Male	5.6	25.6	Good	No	7.2	133
+P0168	50	England	Male	7.5	21.1	Average	No	7.3	141
+P0169	60	England	Female	2.5	29.8	Good	No	7.6	155
+P0170	58	England	Female	8.4	25.6	Average	No	8.4	147
+P0171	41	England	Male	1.3	NA	Poor	No	7.9	163
+P0172	28	England	Male	8	18.2	Average	No	6.1	124
+P0173	50	England	Male	2.9	27.8	Average	No	5.9	161
+P0174	43	Scotland	Male	0.9	29	Poor	No	7.7	154
+P0175	41	Scotland	Female	6.3	23.9	Good	No	6.2	141
+P0176	58	England	Male	1.1	28.9	Average	No	6.4	146
+P0177	42	Scotland	Male	5.4	26.7	Average	No	7.3	148
+P0178	21	Scotland	Female	8.7	24.5	Poor	No	6.3	128
+P0179	49	Northern Ireland	Female	5.8	31.2	Poor	No	8.7	138
+P0180	28	Scotland	Male	2.6	32.4	Poor	Yes	7.1	148
+P0181	45	Northern Ireland	Male	4.7	26	Good	No	7.3	143
+P0182	38	Wales	Male	6.6	23.4	Average	Yes	7.8	141
+P0183	52	England	Male	3.8	NA	Average	Yes	8.1	148
+P0184	59	England	Male	8.3	21.7	Good	No	7.1	140
+P0185	42	England	Male	2.6	25.6	Poor	No	6.9	129
+P0186	28	Scotland	Male	6.3	22.6	Good	No	6	143
+P0187	41	Scotland	Female	6.8	22	Poor	Yes	6.5	140
+P0188	70	Northern Ireland	Male	4.8	22.7	Good	No	7.1	150
+P0189	45	Northern Ireland	Female	2.1	30	Poor	No	6.4	151
+P0190	23	Wales	Male	4.4	27.8	Poor	No	6	141
+P0191	56	England	Male	3.9	31.2	Average	No	6.9	170
+P0192	26	Wales	Male	4.6	25.5	Good	No	8	132
+P0193	24	Northern Ireland	Male	2.4	21.8	Average	No	8.7	125
+P0194	31	England	Female	10.8	20.6	Good	No	7.3	119
+P0195	23	England	Male	3.9	25	Average	No	9.3	124
+P0196	70	Wales	Female	1.5	29.9	Poor	No	8.2	147
+P0197	36	Scotland	Female	3.6	27.1	Good	No	6.6	126
+P0198	61	Scotland	Female	5.6	28.7	Good	No	8.3	155
+P0199	24	England	Male	6	26.6	Poor	Yes	8.8	134
+P0200	34	England	Female	3.1	28.3	Good	No	8.5	120
+P0201	45	Wales	Female	5.5	26.8	Average	No	8.2	134
+P0202	39	Northern Ireland	Female	8.2	22.2	Good	No	8	124
+P0203	75	Wales	Male	6.3	23.1	Good	No	6.6	150
+P0204	50	England	Female	3.9	31.5	Poor	No	8.5	146
+P0205	46	Wales	Female	7.9	22.6	Average	Yes	6.7	128
+P0206	43	Wales	Male	2.4	27.5	Poor	Yes	6.4	162
+P0207	59	Scotland	Male	6.2	28.1	Poor	No	6.9	148
+P0208	50	Wales	Female	5.5	26.3	Average	Yes	9.7	139
+P0209	58	England	Male	1.3	32.4	Average	No	6.9	158
+P0210	39	Scotland	Female	9.3	27	Average	Yes	7.6	149
+P0211	44	Scotland	Male	2.8	29.1	Average	Yes	7.2	175
+P0212	43	England	Female	5.4	25.5	Good	No	7.6	127
+P0213	36	England	Female	3.8	30	Poor	No	7.4	133
+P0214	31	England	Female	5.9	27.3	Poor	No	6.5	135
+P0215	29	England	Female	8.6	21.9	Poor	No	6.2	134
+P0216	62	England	Male	1.9	35.5	Average	No	7.4	154
+P0217	64	Northern Ireland	Female	3.8	28	Poor	No	7.5	153
+P0218	39	Northern Ireland	Female	NA	29.5	Good	No	7.9	137
+P0219	62	Northern Ireland	Male	5	26.3	Poor	No	6.3	149
+P0220	43	Wales	Male	6.8	25.6	Average	No	7.4	143
+P0221	70	Scotland	Male	4.6	23.5	Good	No	7.4	134
+P0222	40	England	Female	7.1	24.3	Average	No	4.5	134
+P0223	43	England	Female	5.6	25.7	Good	No	7.2	138
+P0224	69	Wales	Male	3	29.4	Poor	No	7.6	150
+P0225	49	Northern Ireland	Male	3.1	25.1	Average	No	8.6	138
+P0226	23	Wales	Female	4.6	27.2	Average	No	6.1	131
+P0227	43	Northern Ireland	Male	4.3	26	Average	Yes	6.5	157
+P0228	34	England	Male	7.4	27.8	Poor	Yes	8.4	143
+P0229	29	Wales	Female	4.4	21.7	Good	Yes	8.9	136
+P0230	43	Scotland	Male	4.2	23.4	Good	No	7	139
+P0231	42	England	Male	4.3	28.8	Average	Yes	6.2	147
+P0232	31	Wales	Male	5.9	25.8	Good	No	7.2	140
+P0233	49	Wales	Male	2.1	25.4	Good	No	7.7	145
+P0234	65	England	Female	4.8	24.8	Good	No	8	141
+P0235	49	Wales	Male	7.8	24	Average	Yes	7.4	138
+P0236	53	Wales	Male	4.2	NA	Good	Yes	7.3	141
+P0237	32	England	Male	1.6	28	Average	No	7.3	150
+P0238	75	Wales	Male	1.8	28.9	Poor	No	7.3	148
+P0239	60	England	Male	6.6	28.1	Poor	Yes	7.2	160
+P0240	37	Scotland	Female	4.1	27.2	Average	Yes	8.1	150
+P0241	51	England	Male	8.1	25.7	Poor	Yes	7	146
+P0242	66	England	Male	8.8	NA	Good	No	6.7	156
+P0243	34	Wales	Female	5.2	24.6	Poor	Yes	7.4	141
+P0244	26	Scotland	Female	5.7	27.4	Good	No	6.4	117
+P0245	33	Scotland	Female	4	30	Poor	No	7.8	139
+P0246	51	England	Female	3.4	27.9	Average	No	9	135
+P0247	50	England	Male	3.7	29.1	Poor	No	6.8	154
+P0248	73	England	Female	4.1	30.9	Poor	No	7.4	174
+P0249	22	England	Female	4	26.3	Average	No	7.7	149
+P0250	65	England	Female	2.6	30.7	Poor	No	7.9	153
+P0251	27	Northern Ireland	Female	1	33.8	Good	No	8.2	143
+P0252	23	Scotland	Female	7.1	23.4	Good	Yes	7.8	131
+P0253	65	England	Male	2.2	32.6	Poor	No	7	159
+P0254	75	England	Female	4.2	28	Poor	No	7.9	147
+P0255	75	England	Female	5.6	32.4	Poor	No	9	171
+P0256	80	Scotland	Male	5.1	23.8	Good	Yes	7.3	164
+P0257	74	England	Male	2.8	25.3	Average	No	7	170
+P0258	49	England	Male	4.1	23	Good	No	8.2	129
+P0259	21	Wales	Male	5.6	27.7	Poor	No	5.7	131
+P0260	20	England	Male	5.9	25.1	Poor	No	7.3	150
+P0261	69	Northern Ireland	Male	0.8	30.4	Average	No	4.7	141
+P0262	44	Northern Ireland	Male	5.2	28.7	Poor	Yes	7.1	151
+P0263	69	England	Female	4	31.5	Poor	No	6.4	149
+P0264	44	Scotland	Female	5.2	26.3	Good	No	8.6	135
+P0265	28	England	Female	4.6	17.4	Good	Yes	7.3	118
+P0266	51	England	Female	3.4	23.5	Good	No	6.8	127
+P0267	76	Wales	Male	4.1	32.3	Poor	Yes	6.4	153
+P0268	71	England	Female	4.8	30.6	Average	No	6.7	158
+P0269	28	England	Female	3.1	29.9	Poor	No	7.1	141
+P0270	51	Wales	Female	1.9	34.1	Poor	No	8.1	141
+P0271	43	Scotland	Female	6.7	23	Poor	No	7.9	134
+P0272	23	England	Female	4.1	29.9	Poor	Yes	7.8	127
+P0273	23	Scotland	Male	5.1	24.7	Poor	No	5.9	151
+P0274	76	England	Female	5.5	21.5	Good	Yes	6.9	141
+P0275	49	England	Female	2.6	29.5	Average	No	6.1	135
+P0276	47	England	Female	5.8	26.7	Average	No	8.1	140
+P0277	19	Wales	Male	4.3	26.6	Poor	No	6.3	130
+P0278	79	Northern Ireland	Male	2.7	30.9	Poor	Yes	6.9	158
+P0279	72	England	Male	6.3	25.1	Good	No	8.6	147
+P0280	33	Scotland	Male	3.4	30	Average	No	4.5	149
+P0281	26	Scotland	Female	5.1	27.6	Average	No	7.3	130
+P0282	64	Scotland	Female	4.6	29.7	Poor	No	8.3	144
+P0283	67	England	Female	10	22.5	Poor	No	7.7	136
+P0284	66	Wales	Female	6.9	29.7	Average	No	8.3	140
+P0285	77	Wales	Male	6.6	28.3	Average	No	6.5	145
+P0286	67	Scotland	Female	5.9	23.7	Average	No	5	139
+P0287	65	England	Female	4	28.3	Good	No	6.9	146
+P0288	21	England	Male	3.1	29.7	Poor	Yes	7.6	144
+P0289	60	England	Male	1.5	25.3	Good	No	7.9	143
+P0290	21	Wales	Female	3.8	25.7	Average	No	6.8	125
+P0291	51	England	Male	4.7	27.2	Average	No	8.3	158
+P0292	27	England	Female	7	27.2	Poor	No	7.1	129
+P0293	71	Northern Ireland	Female	4.8	29	Poor	Yes	5.7	154
+P0294	58	England	Male	1	28.2	Poor	No	7.3	159
+P0295	39	Scotland	Female	7.9	26.8	Good	No	7.5	135
+P0296	73	Wales	Female	3.5	23.8	Poor	No	6.6	146
+P0297	70	Wales	Female	2.1	33	Average	No	8.3	159
+P0298	63	Northern Ireland	Male	3.5	28.9	Average	No	8.4	152
+P0299	54	Wales	Female	4.4	23.8	Good	Yes	7.1	138
+P0300	18	Wales	Male	5	29.6	Average	Yes	5.8	145
+P0301	58	Scotland	Female	4.4	29	Good	No	6.8	122
+P0302	46	Wales	Female	5	25.5	Average	Yes	7.6	145
+P0303	23	England	Female	5.2	24.1	Poor	No	7.8	129
+P0304	50	England	Male	1.8	27	Average	No	7.4	129
+P0305	71	England	Male	3.4	27.1	Average	No	6.4	152
+P0306	59	England	Male	6	25.6	Good	No	7.4	148
+P0307	52	England	Female	4.8	28.8	Average	No	7.2	144
+P0308	26	Wales	Female	6.9	24.1	Good	No	7.1	114
+P0309	39	England	Female	5.9	26.3	Average	No	9.2	123
+P0310	39	Wales	Female	5.7	25.4	Poor	No	6.8	141
+P0311	58	England	Male	7	23.6	Good	No	5.8	132
+P0312	22	England	Female	5	26	Poor	Yes	7.2	128
+P0313	36	Scotland	Male	5.7	25.9	Good	No	5.4	130
+P0314	19	England	Male	7.9	20.4	Average	No	6.8	116
+P0315	71	England	Female	5.8	22.9	Average	No	7.5	149
+P0316	25	Northern Ireland	Female	4.9	24.5	Average	No	8.4	129
+P0317	61	England	Female	6.2	28	Average	No	7.6	141
+P0318	20	Northern Ireland	Male	6.2	25.3	Good	No	6.1	127
+P0319	30	England	Female	4.5	22.2	Poor	No	9.1	124
+P0320	62	England	Female	8.9	21	Good	No	8	129
+P0321	67	England	Male	2.5	33.9	Poor	Yes	6.2	172
+P0322	60	England	Female	3.9	35.3	Good	No	7.7	152
+P0323	62	Wales	Male	6.7	28.4	Average	Yes	7.4	133
+P0324	42	England	Female	1.3	31.3	Poor	No	7.5	149
+P0325	49	England	Female	2.4	24.6	Good	Yes	7.4	139
+P0326	56	Northern Ireland	Male	8.4	30.3	Good	Yes	7.9	157
+P0327	75	England	Male	2.7	35.4	Poor	Yes	7.3	166
+P0328	45	Scotland	Female	6.8	25.5	Good	No	9	128
+P0329	27	Scotland	Male	3.8	29	Average	Yes	7.4	146
+P0330	19	Northern Ireland	Female	6.6	23.8	Good	No	7.7	124
+P0331	18	Scotland	Female	4.3	26.5	Average	Yes	8.1	118
+P0332	71	England	Female	5.7	28.8	Average	No	8.2	162
+P0333	66	Northern Ireland	Female	4.1	29.9	Poor	No	6.6	146
+P0334	20	England	Female	9.5	19.9	Good	No	7.8	109
+P0335	70	Wales	Male	6.6	24.1	Good	No	8.4	151
+P0336	46	England	Male	6.2	27.1	Poor	No	6.8	155
+P0337	36	Wales	Female	2.7	26.5	Average	No	6.8	132
+P0338	22	England	Female	4.4	32.8	Poor	Yes	7.4	139
+P0339	51	England	Male	6.6	23.5	Average	No	7.4	146
+P0340	72	England	Male	3.8	29.1	Average	No	6.7	153
+P0341	34	England	Male	8.4	22.4	Average	Yes	7.2	138
+P0342	33	Wales	Female	NA	26.8	Good	No	7.1	133
+P0343	44	Northern Ireland	Female	5.5	27	Average	Yes	7.3	137
+P0344	22	England	Male	7.9	24	Good	Yes	6.9	115
+P0345	31	England	Male	3.9	26.5	Average	No	8.5	138
+P0346	22	England	Female	3	26.8	Poor	Yes	7.1	146
+P0347	69	Northern Ireland	Male	1	32.1	Poor	Yes	7.7	159
+P0348	68	Wales	Female	3.5	29.1	Good	Yes	6.9	144
+P0349	32	England	Female	5.8	24.5	Good	No	8.2	138
+P0350	43	Northern Ireland	Female	10	21	Good	No	7.2	123
+P0351	70	England	Female	4.6	29.4	Poor	Yes	7.9	160
+P0352	66	England	Female	3.9	23.9	Good	No	8	147
+P0353	35	Northern Ireland	Male	2.1	30.2	Good	No	7.7	128
+P0354	61	England	Female	4.4	26	Average	No	6	146
+P0355	33	Scotland	Female	6.1	25.7	Poor	Yes	7.7	140
+P0356	46	England	Female	1.1	32	Poor	No	6.5	143
+P0357	22	Scotland	Male	2	27.9	Good	No	7.9	123
+P0358	18	Wales	Female	6	23.8	Average	No	6.2	129
+P0359	40	Wales	Male	5.8	22.3	Poor	Yes	7.5	136
+P0360	50	England	Female	4.5	24.8	Poor	Yes	8.3	145
+P0361	30	Scotland	Male	3.4	29.9	Average	No	8.3	138
+P0362	43	England	Male	7	25.4	Poor	Yes	6.1	135
+P0363	30	England	Female	5.8	23.6	Good	No	7	134
+P0364	35	Scotland	Male	5	27.7	Good	No	7.5	127
+P0365	67	Scotland	Male	NA	28.3	Average	No	7.9	141
+P0366	58	England	Female	7	26.7	Poor	No	6.1	140
+P0367	19	England	Male	4.8	24.3	Average	No	7.1	132
+P0368	44	England	Female	2.7	26.2	Good	No	7.5	128
+P0369	45	England	Male	2.8	32.9	Poor	No	7.1	156
+P0370	52	Northern Ireland	Male	4.1	20.5	Average	No	7.6	124
+P0371	65	Scotland	Male	5.5	26.3	Poor	Yes	8.9	155
+P0372	62	Wales	Male	4.5	24.2	Poor	No	6.5	152
+P0373	41	England	Male	4.7	26.8	Average	No	7.1	128
+P0374	52	England	Female	5	32.1	Poor	Yes	6	153
+P0375	33	England	Female	6.3	18.6	Poor	Yes	7.4	132
+P0376	56	Scotland	Female	2.1	32.1	Poor	Yes	8.5	151
+P0377	47	Scotland	Female	5.9	24.3	Good	No	6.4	135
+P0378	48	Wales	Female	1.6	33.2	Poor	No	8.1	134
+P0379	60	England	Male	5.6	23.2	Average	Yes	6.9	143
+P0380	56	England	Female	3.2	29.9	Poor	Yes	8.3	147
+P0381	40	England	Female	5.6	26.3	Good	No	7.2	126
+P0382	29	Scotland	Female	6.3	20	Average	No	6.3	124
+P0383	73	England	Female	4	24.3	Good	No	7.2	126
+P0384	29	Wales	Male	6.8	23.6	Good	No	7	119
+P0385	32	Northern Ireland	Female	5.5	28.9	Poor	Yes	7.3	128
+P0386	68	Northern Ireland	Female	3.2	32.2	Poor	No	5.6	160
+P0387	35	Wales	Female	4.9	27.1	Average	No	6.2	141
+P0388	55	Scotland	Female	3.9	28.1	Poor	No	7.7	148
+P0389	74	England	Male	4.6	29.3	Poor	No	7.4	165
+P0390	32	Northern Ireland	Female	6.1	29.3	Poor	Yes	6.9	139
+P0391	72	England	Male	9.2	26.6	Average	Yes	6.5	153
+P0392	23	Wales	Male	6.3	25.4	Poor	No	6.6	142
+P0393	58	Wales	Male	4.6	25.5	Average	No	6.4	142
+P0394	27	England	Female	9.8	20	Good	No	8.3	120
+P0395	22	England	Male	NA	30.3	Poor	No	7.3	141
+P0396	27	Wales	Female	6.8	25.7	Average	No	8	116
+P0397	56	Scotland	Female	4.6	26.8	Good	No	8.7	147
+P0398	66	England	Female	4.5	28.9	Poor	Yes	8.1	159
+P0399	39	Northern Ireland	Female	5.3	27.4	Average	No	7.6	135
+P0400	43	Wales	Male	5	28.7	Average	No	5.5	124
+P0401	65	England	Male	5	30.6	Poor	No	7.7	165
+P0402	72	Wales	Male	3.2	31.9	Good	No	6.3	157
+P0403	48	England	Male	5.2	26.9	Average	No	8.4	152
+P0404	30	England	Female	4.5	27.6	Good	No	7.7	135
+P0405	69	Wales	Male	5.3	30.7	Poor	No	7.2	165
+P0406	65	Scotland	Female	2.3	25.2	Average	No	5.7	150
+P0407	51	England	Male	0.9	34.6	Poor	No	7.3	150
+P0408	25	England	Female	6.9	25.6	Poor	No	7.5	136
+P0409	20	England	Male	7.1	22.4	Good	No	8.2	126
+P0410	73	England	Male	3.1	28.4	Average	No	6.5	160
+P0411	70	Scotland	Female	5.1	25.2	Good	No	6.7	127
+P0412	74	England	Female	6.5	23.3	Good	No	6.6	149
+P0413	36	England	Male	6.7	25	Good	No	7.1	132
+P0414	20	England	Male	3	27.6	Average	No	6.1	139
+P0415	38	England	Male	4.3	22.7	Poor	No	6.4	137
+P0416	49	Wales	Female	5.4	22.3	Good	No	8.3	141
+P0417	23	England	Male	4.4	28.5	Poor	Yes	7.1	142
+P0418	74	England	Male	4.2	28.6	Poor	Yes	6	147
+P0419	53	England	Female	0	32.4	Poor	No	5.6	143
+P0420	60	Scotland	Male	6.8	22.7	Good	No	6	145
+P0421	28	England	Female	4.4	31.6	Good	No	8.1	132
+P0422	34	Wales	Male	7.3	24.6	Good	No	6.4	137
+P0423	27	England	Female	9.1	24.4	Good	No	6.6	131
+P0424	46	England	Male	3.7	26.2	Poor	Yes	7.3	152
+P0425	24	Scotland	Male	5.6	25.7	Poor	No	8.6	128
+P0426	38	Wales	Male	5.2	29	Average	No	6.7	145
+P0427	44	Wales	Female	4.7	23.4	Average	Yes	7.5	130
+P0428	66	Wales	Male	7.5	23.8	Average	No	8.4	154
+P0429	66	Northern Ireland	Female	5.6	25.4	Good	No	7.8	155
+P0430	19	Scotland	Male	2	32.5	Poor	Yes	6.7	153
+P0431	74	England	Male	2	26	Good	No	8.4	152
+P0432	21	Scotland	Female	9.5	24.1	Average	No	6.6	124
+P0433	63	Scotland	Male	8.5	29.2	Average	Yes	8.7	161
+P0434	31	Wales	Male	4.3	26.5	Poor	No	6.9	129
+P0435	79	England	Female	6.3	28.2	Good	No	8	149
+P0436	19	Scotland	Female	4.2	25.1	Good	No	7.3	122
+P0437	56	Wales	Female	6.5	29.4	Poor	No	7.5	165
+P0438	34	England	Female	7.7	19.4	Average	Yes	8.9	141
+P0439	50	Northern Ireland	Female	8.5	26.5	Average	No	6.5	130
+P0440	41	England	Male	6.1	29.1	Good	No	7.7	129
+P0441	61	Wales	Male	6.2	31.7	Good	No	8.4	152
+P0442	34	Wales	Male	7.8	23	Poor	Yes	7.2	147
+P0443	78	Scotland	Male	6.5	24.5	Poor	No	7.3	169
+P0444	24	Scotland	Female	7.3	26.5	Poor	Yes	7.5	141
+P0445	61	Northern Ireland	Female	4.6	27.7	Average	No	6.5	162
+P0446	73	Scotland	Male	3.2	32.6	Poor	No	7.5	172
+P0447	77	Scotland	Male	5.6	22.6	Average	Yes	6.9	141
+P0448	40	England	Female	3.6	29.2	Poor	No	7.3	148
+P0449	20	Scotland	Male	8.3	24.4	Average	No	5.9	112
+P0450	73	England	Male	3.8	30.6	Poor	No	7.1	167
+P0451	78	Scotland	Female	6	23.1	Average	Yes	6.5	155
+P0452	56	Wales	Female	3.2	30.8	Good	No	9.8	149
+P0453	24	England	Male	4.3	24.7	Poor	No	7.3	118
+P0454	80	England	Male	7.8	29.2	Average	No	7.6	172
+P0455	78	England	Female	0	31.8	Good	No	8.1	154
+P0456	68	Wales	Male	3.2	31.1	Average	No	7.8	171
+P0457	56	Scotland	Female	7.1	23.4	Average	No	8.2	154
+P0458	50	England	Female	6.1	23.1	Poor	No	6.1	152
+P0459	67	Wales	Female	6.1	22.8	Good	No	7.4	135
+P0460	41	England	Male	3.9	25.4	Average	No	8.9	128
+P0461	48	England	Male	4.7	28	Poor	No	6.8	149
+P0462	65	England	Male	6.5	26.1	Average	No	8.1	130
+P0463	78	England	Female	3.6	32.9	Poor	Yes	8.5	164
+P0464	51	England	Male	3	27.5	Average	Yes	6.2	157
+P0465	49	England	Male	5.9	26.2	Poor	No	8.2	149
+P0466	53	England	Female	4.7	25.6	Average	No	6.7	132
+P0467	42	Wales	Female	3.2	30.3	Poor	No	6.4	139
+P0468	74	Scotland	Male	2.7	26.6	Average	No	7.4	156
+P0469	48	Wales	Female	4.6	22.9	Average	No	6.8	137
+P0470	34	Northern Ireland	Female	7	29.9	Poor	No	8.4	150
+P0471	79	England	Female	4.6	25.9	Average	No	7.6	151
+P0472	62	Scotland	Male	2.3	28.8	Average	No	6.8	147
+P0473	75	Wales	Female	4.2	30.9	Poor	No	7.3	149
+P0474	36	Northern Ireland	Female	5.3	26.5	Good	No	8.5	134
+P0475	18	England	Female	8	23.6	Poor	Yes	7.9	142
+P0476	73	England	Female	3.6	NA	Average	Yes	8.2	162
+P0477	30	Wales	Male	4.4	23.8	Good	No	6.3	121
+P0478	73	England	Female	5.4	22.9	Average	No	6.8	144
+P0479	48	Wales	Female	1.3	32.7	Poor	No	8.3	154
+P0480	24	England	Female	4.5	22.4	Good	No	7.9	123
